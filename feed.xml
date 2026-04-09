@@ -1,34 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>product-333</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
-    <Title>Apple iPhone 17 Pro 512Gb (eSim) Orange (оранжевый)</Title>
-    <Description>Продаётся Apple iPhone 17 Pro 512Gb (eSim) Orange (оранжевый).
+    <Id>product-253</Id>
+    <Category>Ноутбуки</Category>
+    <GoodsType>Ноутбуки</GoodsType>
+    <Title>Apple MacBook Pro 14" (MGDR4) M5 Pro (15CPU/16GPU) 24Gb/1Tb Space Black (черный) (без гравировки)</Title>
+    <Description>Продаётся Apple MacBook Pro 14" (MGDR4) M5 Pro (15CPU/16GPU) 24Gb/1Tb Space Black (черный) (без гравировки).
 Бренд: Apple
-Модель: iPhone 17 Pro
-Память: 512 ГБ
-Цвет: оранжевый
+Модель: MacBook Pro 14"
+Память: 24 ГБ/1 ТБ
+Цвет: черный
 Состояние: Новый
-Цена: 118650 ₽</Description>
-    <Price>118650</Price>
+Цена: 202700 ₽</Description>
+    <Price>202700</Price>
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 17 Pro</Model>
-    <Color>оранжевый</Color>
-    <MemorySize>512 ГБ</MemorySize>
+    <Model>MacBook Pro 14"</Model>
+    <Color>черный</Color>
+    <RamSize>24 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0c6/perw5vqmlu4zcuktssquxu5av2v5jy6m.webp" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/38f/mka5lv1pwm2nuvpwrvh970autyrhabiu.webp" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/6ac/j76jnp0tsvcnmtch0rxmzq3dpwzhmamq.webp" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cee/n12zvvau4cc7cuye2pxh80hl1wobgikk.webp" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/0c6/60_60_1/perw5vqmlu4zcuktssquxu5av2v5jy6m.webp" />
-      <Image url="https://video-shoper.ru/upload/resize_cache/iblock/38f/60_60_1/mka5lv1pwm2nuvpwrvh970autyrhabiu.png" />
-      <Image url="https://video-shoper.ru/upload/resize_cache/iblock/6ac/60_60_1/j76jnp0tsvcnmtch0rxmzq3dpwzhmamq.png" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/cee/60_60_1/n12zvvau4cc7cuye2pxh80hl1wobgikk.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/74a/1wy1isyz5917gykvnimdt76gpajr5xyi.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/4bb/vtzpo4brhhpg0v3213a0q6arxzyhvjli.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a38/ba82pklefkz208wmrl28k2efng5xdji5.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/d56/ttv6ddhtdvpwxkrx7jiqwingm8qlhfa5.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/74a/60_60_1/1wy1isyz5917gykvnimdt76gpajr5xyi.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/4bb/60_60_1/vtzpo4brhhpg0v3213a0q6arxzyhvjli.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/a38/60_60_1/ba82pklefkz208wmrl28k2efng5xdji5.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/d56/60_60_1/ttv6ddhtdvpwxkrx7jiqwingm8qlhfa5.webp" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>product-252</Id>
+    <Category>Ноутбуки</Category>
+    <GoodsType>Ноутбуки</GoodsType>
+    <Title>Apple MacBook Pro 14.2" (MDE14) M5 16Gb/1TB Space black (черный)</Title>
+    <Description>Продаётся Apple MacBook Pro 14.2" (MDE14) M5 16Gb/1TB Space black (черный).
+Бренд: Apple
+Модель: MacBook Pro 14
+Память: 16 ГБ/1 ТБ
+Цвет: черный
+Состояние: Новый
+Цена: 143097 ₽</Description>
+    <Price>143097</Price>
+    <Address>Москва, Пятницкое шоссе, 18</Address>
+    <ContactPhone>+79009394496</ContactPhone>
+    <Condition>Новое</Condition>
+    <Vendor>Apple</Vendor>
+    <Model>MacBook Pro 14</Model>
+    <Color>черный</Color>
+    <RamSize>16 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
+    <Images>
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/672/wrfscejcjrptpgo5eexp74hxnpibv80c.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/853/ju37k1hcc4e5d4sm0h3kkwjvveg2aos9.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/042/n5jpx6w51enhppb2rpkr0tpkiumv5iel.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/dfe/hv50u7514nh6jidubfnljpputaz64xgc.webp" />
+      <Image url="https://video-shoper.ru/upload/iblock/df5/25hrgk3zczlhsvwtmqji1asvhql419l9.png" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/672/60_60_1/wrfscejcjrptpgo5eexp74hxnpibv80c.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/853/60_60_1/ju37k1hcc4e5d4sm0h3kkwjvveg2aos9.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/042/60_60_1/n5jpx6w51enhppb2rpkr0tpkiumv5iel.webp" />
     </Images>
   </Ad>
 </Ads>
