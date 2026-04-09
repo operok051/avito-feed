@@ -1,60 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>product-253</Id>
-    <Category>Ноутбуки</Category>
-    <GoodsType>Ноутбуки</GoodsType>
-    <Title>Apple MacBook Pro 14" (MGDR4) M5 Pro (15CPU/16GPU) 24Gb/1Tb Space Black (черный) (без гравировки)</Title>
-    <Description>Продаётся Apple MacBook Pro 14" (MGDR4) M5 Pro (15CPU/16GPU) 24Gb/1Tb Space Black (черный) (без гравировки).
-Бренд: Apple
-Модель: MacBook Pro 14"
-Память: 24 ГБ/1 ТБ
-Цвет: черный
+    <Id>product-1</Id>
+    <Category>Фототехника</Category>
+    <GoodsType>Фотоаппараты</GoodsType>
+    <Title>Картpидж Fujifilm для instax Mini (20шт)</Title>
+    <Description>Продаётся Картpидж Fujifilm для instax Mini (20шт).
+Бренд: Fujifilm
+Модель: Картpидж  для instax Mini (20шт)
 Состояние: Новый
-Цена: 202700 ₽</Description>
-    <Price>202700</Price>
+Цена: 2300 ₽</Description>
+    <Price>2300</Price>
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Apple</Vendor>
-    <Model>MacBook Pro 14"</Model>
-    <Color>черный</Color>
-    <RamSize>24 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <Vendor>Fujifilm</Vendor>
+    <Model>Картpидж  для instax Mini (20шт)</Model>
     <Images>
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/74a/1wy1isyz5917gykvnimdt76gpajr5xyi.webp" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/4bb/vtzpo4brhhpg0v3213a0q6arxzyhvjli.webp" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a38/ba82pklefkz208wmrl28k2efng5xdji5.webp" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/d56/ttv6ddhtdvpwxkrx7jiqwingm8qlhfa5.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8a8/xfjuqgo210p3wa0dg3hlnwuqtuerqheu.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/60a/l44yvy28uyxhpsp0pi3axxxngi53cqd0.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/8a8/390_290_0/jcq8umxci6hvytvifl5w44ld9my52atv.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/673/390_290_0/ul9pmbvxcsse6rcio0l9er2uqm6aztfj.webp" />
     </Images>
   </Ad>
   <Ad>
-    <Id>product-252</Id>
-    <Category>Ноутбуки</Category>
-    <GoodsType>Ноутбуки</GoodsType>
-    <Title>Apple MacBook Pro 14.2" (MDE14) M5 16Gb/1TB Space black (черный)</Title>
-    <Description>Продаётся Apple MacBook Pro 14.2" (MDE14) M5 16Gb/1TB Space black (черный).
-Бренд: Apple
-Модель: MacBook Pro 14
-Память: 16 ГБ/1 ТБ
-Цвет: черный
+    <Id>product-11</Id>
+    <Category>Фототехника</Category>
+    <GoodsType>Оборудование и аксессуары</GoodsType>
+    <Title>Стабилизатор DJI OSMO Mobile 7 Gray (серый) EAC</Title>
+    <Description>Продаётся Стабилизатор DJI OSMO Mobile 7 Gray (серый) EAC.
+Бренд: DJI
+Модель: Стабилизатор  OSMO Mobile 7 Gray (серый) EAC
+Цвет: серый
 Состояние: Новый
-Цена: 143097 ₽</Description>
-    <Price>143097</Price>
+Цена: 6333 ₽</Description>
+    <Price>6333</Price>
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Apple</Vendor>
-    <Model>MacBook Pro 14</Model>
-    <Color>черный</Color>
-    <RamSize>16 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <Vendor>DJI</Vendor>
+    <Model>Стабилизатор  OSMO Mobile 7 Gray (серый) EAC</Model>
+    <Color>серый</Color>
     <Images>
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/672/wrfscejcjrptpgo5eexp74hxnpibv80c.webp" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/853/ju37k1hcc4e5d4sm0h3kkwjvveg2aos9.webp" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/042/n5jpx6w51enhppb2rpkr0tpkiumv5iel.webp" />
-      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/dfe/hv50u7514nh6jidubfnljpputaz64xgc.webp" />
-      <Image url="https://video-shoper.ru/upload/iblock/df5/25hrgk3zczlhsvwtmqji1asvhql419l9.png" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/c29/lg5h98dsf0qdpmelcfk9bh50rafjxu39.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/dfe/95cm985ggrcvpyxfyejjma1cypqftqrz.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/5b4/k1u2hecbkn89q8a5hgxeq024rd07wje1.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/c9f/mf4imu39i3h7fx9mcusivlcwg9x0r1d2.webp" />
+      <Image url="https://video-shoper.ru/upload/iblock/4f0/7l95umptyigr7q4m992uw3yucoxd4h5b.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>product-12</Id>
+    <Category>Фототехника</Category>
+    <GoodsType>Оборудование и аксессуары</GoodsType>
+    <Title>Стабилизатор DJI OSMO Mobile 7P Black (черный) EAC</Title>
+    <Description>Продаётся Стабилизатор DJI OSMO Mobile 7P Black (черный) EAC.
+Бренд: DJI
+Модель: Стабилизатор  OSMO Mobile 7P Black (черный) EAC
+Цвет: черный
+Состояние: Новый
+Цена: 10506 ₽</Description>
+    <Price>10506</Price>
+    <Address>Москва, Пятницкое шоссе, 18</Address>
+    <ContactPhone>+79009394496</ContactPhone>
+    <Condition>Новое</Condition>
+    <Vendor>DJI</Vendor>
+    <Model>Стабилизатор  OSMO Mobile 7P Black (черный) EAC</Model>
+    <Color>черный</Color>
+    <Images>
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/f8c/hh0gf49ce2ryxzhmpk2twe8hm4dsceax.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/92d/usylnyltqsiqj5o8f2ff14p7z02u91w8.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/6e7/opnme62cs4h3588rrstpuyvo4um9rcpo.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf8/zhec5s7kduqewtyvpf61a9eklzfhbgcl.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/96a/g5fe64gpyp0gt13j4xgl9gpuvk41ld2r.webp" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>product-13</Id>
+    <Category>Фототехника</Category>
+    <GoodsType>Оборудование и аксессуары</GoodsType>
+    <Title>Стабилизатор DJI OSMO Mobile 8 черный</Title>
+    <Description>Продаётся Стабилизатор DJI OSMO Mobile 8 черный.
+Бренд: DJI
+Модель: Стабилизатор  OSMO Mobile 8 черный
+Цвет: черный
+Состояние: Новый
+Цена: 12733 ₽</Description>
+    <Price>12733</Price>
+    <Address>Москва, Пятницкое шоссе, 18</Address>
+    <ContactPhone>+79009394496</ContactPhone>
+    <Condition>Новое</Condition>
+    <Vendor>DJI</Vendor>
+    <Model>Стабилизатор  OSMO Mobile 8 черный</Model>
+    <Color>черный</Color>
+    <Images>
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/f14/4uaxn0c1j5iir90597t078ouh2x3olip.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8d2/pz7zrijywufozji7qbt1g608ibwqhvgd.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/d16/0onc99zji5wmy0p26lcgda01asd6ikd2.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/6de/uaj17q3mpgyiph1bo9z3tubb8dl22mdt.webp" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>product-14</Id>
+    <Category>Фототехника</Category>
+    <GoodsType>Фотоаппараты</GoodsType>
+    <Title>Экшн камера DJI Osmo 360 Standart Combo</Title>
+    <Description>Продаётся Экшн камера DJI Osmo 360 Standart Combo.
+Бренд: DJI
+Модель: Экшн камера  Osmo 360 Standart Combo
+Состояние: Новый
+Цена: 35700 ₽</Description>
+    <Price>35700</Price>
+    <Address>Москва, Пятницкое шоссе, 18</Address>
+    <ContactPhone>+79009394496</ContactPhone>
+    <Condition>Новое</Condition>
+    <Vendor>DJI</Vendor>
+    <Model>Экшн камера  Osmo 360 Standart Combo</Model>
+    <Images>
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/e90/ggqy82aiv0t7kui11sebgx935viyugj1.webp" />
+      <Image url="https://video-shoper.ru/upload/iblock/08d/4ze1n16pahe4n0ae6ebomhv5qwa2lqrq.jpg" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/74d/uohe9el7i2gapj2ubg82oidyeps0f5hi.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/584/1tfzi7n42scjzcvchb6v1s709v3adrrx.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/c3e/s28ejas27nwet44gahc2mpqsi07wfmar.webp" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>product-15</Id>
+    <Category>Фототехника</Category>
+    <GoodsType>Фотоаппараты</GoodsType>
+    <Title>Экшн камера DJI Osmo Action 5 Pro Standard Combo</Title>
+    <Description>Продаётся Экшн камера DJI Osmo Action 5 Pro Standard Combo.
+Бренд: DJI
+Модель: Экшн камера  Osmo Action 5 Pro Standard Combo
+Состояние: Новый
+Цена: 25811 ₽</Description>
+    <Price>25811</Price>
+    <Address>Москва, Пятницкое шоссе, 18</Address>
+    <ContactPhone>+79009394496</ContactPhone>
+    <Condition>Новое</Condition>
+    <Vendor>DJI</Vendor>
+    <Model>Экшн камера  Osmo Action 5 Pro Standard Combo</Model>
+    <Images>
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/c95/r641tf7p6vdht3lcfgp9hy14d3sap6k3.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/fa1/kifzukp4epdn1vi32lmipuuym2eed0si.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/101/sxmg130ewilcs4q83v8lruwe1yesx9gq.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/5f9/dpthrqdjs0vigaayvrbbnym2qsivt6nj.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3fd/1ip8qus7h99zjxpo41bd4jmlfpzlfpbk.webp" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>product-16</Id>
+    <Category>Фототехника</Category>
+    <GoodsType>Фотоаппараты</GoodsType>
+    <Title>Экшн камера DJI Osmo Action 6 Adventure Combo черный</Title>
+    <Description>Продаётся Экшн камера DJI Osmo Action 6 Adventure Combo черный.
+Бренд: DJI
+Модель: Экшн камера  Osmo Action 6 Adventure Combo черный
+Цвет: черный
+Состояние: Новый
+Цена: 40984 ₽</Description>
+    <Price>40984</Price>
+    <Address>Москва, Пятницкое шоссе, 18</Address>
+    <ContactPhone>+79009394496</ContactPhone>
+    <Condition>Новое</Condition>
+    <Vendor>DJI</Vendor>
+    <Model>Экшн камера  Osmo Action 6 Adventure Combo черный</Model>
+    <Color>черный</Color>
+    <Images>
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/610/vwfhwjvpeqam3zb254vb9syo72si2hrt.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/282/y3ult70s28c9v5ydz5a265hy8v6xbdqi.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/d63/v5lldt6jq0mngmlfyhlsx1q4ct8ni9sj.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/461/yodmg5fqsg3p5kc82xjnx4c73fy34dff.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/27e/p1otdj2ihxm0w0jbcfbmrxeic8ov2skd.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/c6a/t11zkam43yv03m1n94cc7vqjwmdwlvvo.webp" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>product-17</Id>
+    <Category>Фототехника</Category>
+    <GoodsType>Фотоаппараты</GoodsType>
+    <Title>Экшн камера DJI Osmo Pocket 3 Creator Combo</Title>
+    <Description>Продаётся Экшн камера DJI Osmo Pocket 3 Creator Combo.
+Бренд: DJI
+Модель: Экшн камера  Osmo Pocket 3 Creator Combo
+Состояние: Новый
+Цена: 41000 ₽</Description>
+    <Price>41000</Price>
+    <Address>Москва, Пятницкое шоссе, 18</Address>
+    <ContactPhone>+79009394496</ContactPhone>
+    <Condition>Новое</Condition>
+    <Vendor>DJI</Vendor>
+    <Model>Экшн камера  Osmo Pocket 3 Creator Combo</Model>
+    <Images>
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/c14/08fr9nzur9crgszbo19uxswddjd74d1a.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/e78/xoxu30c3g0vsjjikb2nofauirnlrov2u.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/e67/pdxurtoaiph0opic2xqdv2qtrl7juaqn.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/b79/wfxcs3tubvaukv1s6f98kesjtqh0uxpj.webp" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>product-18</Id>
+    <Category>Фототехника</Category>
+    <GoodsType>Фотоаппараты</GoodsType>
+    <Title>Экшн камера DJI Osmo Pocket 3 серый</Title>
+    <Description>Продаётся Экшн камера DJI Osmo Pocket 3 серый.
+Бренд: DJI
+Модель: Экшн камера  Osmo Pocket 3 серый
+Цвет: серый
+Состояние: Новый
+Цена: 34500 ₽</Description>
+    <Price>34500</Price>
+    <Address>Москва, Пятницкое шоссе, 18</Address>
+    <ContactPhone>+79009394496</ContactPhone>
+    <Condition>Новое</Condition>
+    <Vendor>DJI</Vendor>
+    <Model>Экшн камера  Osmo Pocket 3 серый</Model>
+    <Color>серый</Color>
+    <Images>
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/4f4/ucx21trs0sqj7mcjnqd9dnq81cpzl0qj.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/325/5fxcp8twz0iy2rlies18uwq01k1bl0m5.webp" />
+      <Image url="https://video-shoper.ru/upload/iblock/f36/ynpgmff7iu058lbibmdj9ny24j8s7bto.jpg" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8db/t9i52ft43zij8jjmquskakn7kyvboeqf.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/59e/hukym2njvvs3nzq6o4dfmyvprqei6osb.webp" />
     </Images>
   </Ad>
 </Ads>
