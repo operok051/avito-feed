@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>product-333</Id>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
+    <Title>Apple iPhone 17 Pro 512Gb (eSim) Orange (оранжевый)</Title>
+    <Description>Продаётся Apple iPhone 17 Pro 512Gb (eSim) Orange (оранжевый).
+Бренд: Apple
+Модель: iPhone 17 Pro
+Память: 512 ГБ
+Цвет: оранжевый
+Состояние: Новый
+Цена: 118650 ₽</Description>
+    <Price>118650</Price>
+    <Address>Москва, Пятницкое шоссе, 18</Address>
+    <ContactPhone>+79009394496</ContactPhone>
+    <Condition>Новое</Condition>
+    <Vendor>Apple</Vendor>
+    <Model>iPhone 17 Pro</Model>
+    <Color>оранжевый</Color>
+    <MemorySize>512 ГБ</MemorySize>
+    <Images>
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0c6/perw5vqmlu4zcuktssquxu5av2v5jy6m.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/38f/mka5lv1pwm2nuvpwrvh970autyrhabiu.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/6ac/j76jnp0tsvcnmtch0rxmzq3dpwzhmamq.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cee/n12zvvau4cc7cuye2pxh80hl1wobgikk.webp" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/0c6/60_60_1/perw5vqmlu4zcuktssquxu5av2v5jy6m.webp" />
+      <Image url="https://video-shoper.ru/upload/resize_cache/iblock/38f/60_60_1/mka5lv1pwm2nuvpwrvh970autyrhabiu.png" />
+      <Image url="https://video-shoper.ru/upload/resize_cache/iblock/6ac/60_60_1/j76jnp0tsvcnmtch0rxmzq3dpwzhmamq.png" />
+      <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/cee/60_60_1/n12zvvau4cc7cuye2pxh80hl1wobgikk.webp" />
+    </Images>
+  </Ad>
+</Ads>
