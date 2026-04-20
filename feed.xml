@@ -52,6 +52,7 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 15</Model>
+    <Color>желтый</Color>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/250/eg7t0r9nu3qzjdux6jf0z08tmfn430vk.webp" />
@@ -408,6 +409,7 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Pro</Model>
+    <Color>бежевый</Color>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/3fc/fbz9j9abh6nb17wbc2cosno1g19abiks.jpg" />
@@ -436,6 +438,7 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Pro</Model>
+    <Color>бежевый</Color>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a63/09xyv6cqri0qc6199g897qme5ej5xwrn.webp" />
@@ -467,6 +470,7 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Pro Max</Model>
+    <Color>бежевый</Color>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a63/09xyv6cqri0qc6199g897qme5ej5xwrn.webp" />
@@ -560,6 +564,7 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Pro Max</Model>
+    <Color>бежевый</Color>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a63/09xyv6cqri0qc6199g897qme5ej5xwrn.webp" />
@@ -633,8 +638,8 @@
   </Ad>
   <Ad>
     <Id>product-14</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16е 128Gb (NanoSim+eSim) Black (черный)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -652,7 +657,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 16</Model>
+    <Model>iPhone 16e</Model>
     <Color>черный</Color>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
@@ -1101,7 +1106,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>синий</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/382/d0ogu2l659vkjnxgzf3lwgchb6sx1jp3.webp" />
@@ -1133,7 +1138,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>оранжевый</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8d9/icfbgno7s9izdxdem0zp8gu5oq1eul3s.webp" />
@@ -1164,7 +1169,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>серебристый</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/e92/j1su08b8bx08qifoo36f2xjw21m998eo.webp" />
@@ -1196,7 +1201,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>синий</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/382/d0ogu2l659vkjnxgzf3lwgchb6sx1jp3.webp" />
@@ -1228,7 +1233,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>оранжевый</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0c6/perw5vqmlu4zcuktssquxu5av2v5jy6m.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/38f/mka5lv1pwm2nuvpwrvh970autyrhabiu.webp" />
@@ -1260,7 +1265,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>серебристый</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/e92/j1su08b8bx08qifoo36f2xjw21m998eo.webp" />
@@ -1707,7 +1712,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>синий</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/382/d0ogu2l659vkjnxgzf3lwgchb6sx1jp3.webp" />
@@ -1739,7 +1744,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>оранжевый</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8d9/icfbgno7s9izdxdem0zp8gu5oq1eul3s.webp" />
@@ -1770,7 +1775,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/e92/j1su08b8bx08qifoo36f2xjw21m998eo.webp" />
@@ -1802,7 +1807,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>оранжевый</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8d9/icfbgno7s9izdxdem0zp8gu5oq1eul3s.webp" />
@@ -1833,7 +1838,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0a1/ynib8r3icn86kd9ewd68ay95f02e8us5.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/1b4/6ouioxn16wlz1y7r79c3lr1x38afxg47.webp" />
@@ -2055,7 +2060,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
-    <MemorySize>2 ТБ</MemorySize>
+    <MemorySize>2048 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0a1/ynib8r3icn86kd9ewd68ay95f02e8us5.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/1b4/6ouioxn16wlz1y7r79c3lr1x38afxg47.webp" />
@@ -2087,7 +2092,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>синий</Color>
-    <MemorySize>2 ТБ</MemorySize>
+    <MemorySize>2048 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/382/d0ogu2l659vkjnxgzf3lwgchb6sx1jp3.webp" />
@@ -2119,7 +2124,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>оранжевый</Color>
-    <MemorySize>2 ТБ</MemorySize>
+    <MemorySize>2048 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8d9/icfbgno7s9izdxdem0zp8gu5oq1eul3s.webp" />
@@ -2150,7 +2155,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
-    <MemorySize>2 ТБ</MemorySize>
+    <MemorySize>2048 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0a1/ynib8r3icn86kd9ewd68ay95f02e8us5.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/1b4/6ouioxn16wlz1y7r79c3lr1x38afxg47.webp" />
@@ -2370,7 +2375,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 17</Model>
+    <Model>iPhone 17e</Model>
     <Color>черный</Color>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2400,7 +2405,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 17</Model>
+    <Model>iPhone 17e</Model>
     <Color>белый</Color>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2430,7 +2435,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 17</Model>
+    <Model>iPhone 17e</Model>
     <Color>черный</Color>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2460,7 +2465,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 17</Model>
+    <Model>iPhone 17e</Model>
     <Color>розовый</Color>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2493,7 +2498,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Google</Vendor>
-    <Model>Pixel 10 Pro Fold 16/512Gb US moonstone (лунный серый)</Model>
+    <Model>Pixel 10 Pro Fold</Model>
     <Color>серый</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -2525,7 +2530,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>HONOR 600 Lite 5G 8/256Gb (NFC) (MediaTek Dimensity 7100 Elite) Вельветовый Серы</Model>
+    <Model>600 Lite</Model>
     <Color>серый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -2559,7 +2564,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>HONOR 600 Lite 5G 8/256Gb (NFC) (MediaTek Dimensity 7100 Elite) Вельветовый Черн</Model>
+    <Model>600 Lite</Model>
     <Color>черный</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -2593,7 +2598,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>HONOR 600 Lite 5G 8/256Gb (NFC) (MediaTek Dimensity 7100 Elite) Пустынный Золото</Model>
+    <Model>600 Lite</Model>
     <Color>золотой</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -2628,7 +2633,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>HONOR X9d   8/256Gb 5G (NFC) (Snapdragon 6 Gen4) бежевый EAC</Model>
+    <Model>X9d</Model>
     <Color>бежевый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -2660,7 +2665,8 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>HONOR X9d   8/256Gb 5G (NFC) (Snapdragon 6 Gen4) терракотовый EAC</Model>
+    <Model>X9d</Model>
+    <Color>оранжевый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2691,7 +2697,8 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>HONOR X9d  12/256Gb 5G (NFC) (Snapdragon 6 Gen4) графитовый EAC</Model>
+    <Model>X9d</Model>
+    <Color>серый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2722,7 +2729,8 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>HONOR X9d  12/256Gb 5G (NFC) (Snapdragon 6 Gen4) мятный EAC</Model>
+    <Model>X9d</Model>
+    <Color>зеленый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2753,7 +2761,8 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>HONOR X9d  12/256Gb 5G (NFC) (Snapdragon 6 Gen4) терракотовый EAC</Model>
+    <Model>X9d</Model>
+    <Color>оранжевый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2784,8 +2793,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Mate 80 Pro 16/512Gb (NFC) (HiSilicon Kirin 9030 Pro) Зеленый EAC Не открывать!!</Model>
-    <Color>зеленый</Color>
+    <Model>Mate 80 Pro</Model>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -2818,7 +2826,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Nova 14i Dual 8/256Gb Snapdragon 680 голубой EAC</Model>
+    <Model>Nova 14i</Model>
     <Color>синий</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -2853,8 +2861,8 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Pura 80 Ultra 16/512 Gb Golden Black (черный) (Европа)</Model>
-    <Color>черный</Color>
+    <Model>Pura 80 Ultra</Model>
+    <Color>золотой</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -2885,7 +2893,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Pura 80 Ultra 16/512 Gb Prestige Gold (золото) (Европа)</Model>
+    <Model>Pura 80 Ultra</Model>
     <Color>золотой</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -2917,7 +2925,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Pura 80 Ultra 16/512Gb Kirin 9020 Сверкающий золотой ЕАС</Model>
+    <Model>Pura 80 Ultra</Model>
     <Color>золотой</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -2950,7 +2958,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Pura 80 Ultra 16/512Gb Kirin 9020 Черный ЕАС</Model>
+    <Model>Pura 80 Ultra</Model>
     <Color>черный</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -2963,8 +2971,8 @@
   </Ad>
   <Ad>
     <Id>product-164</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>One Plus Nord 5 12Gb/512Gb Phantom Grey (Серый) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -2981,7 +2989,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>One Plus Nord 5 12Gb/512Gb Phantom Grey (Серый)  (Европа)</Model>
+    <Vendor>OnePlus</Vendor>
+    <Model>Nord 5</Model>
     <Color>серый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -2997,8 +3006,8 @@
   </Ad>
   <Ad>
     <Id>product-165</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>One Plus Nord 5 8Gb/256Gb Phantom Grey (Серый) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -3015,7 +3024,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>One Plus Nord 5 8Gb/256Gb Phantom Grey (Серый)  (Европа)</Model>
+    <Vendor>OnePlus</Vendor>
+    <Model>Nord 5</Model>
     <Color>серый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -3768,7 +3778,6 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy A36</Model>
-    <Color>зеленый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -3903,7 +3912,6 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy A56</Model>
-    <Color>зеленый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -3975,6 +3983,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy A56</Model>
+    <Color>серый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
@@ -4010,6 +4019,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy A56</Model>
+    <Color>серый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -4045,6 +4055,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy A56</Model>
+    <Color>серый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -4080,7 +4091,6 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy A56</Model>
-    <Color>зеленый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
@@ -4479,7 +4489,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25</Model>
-    <Color>черный</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -4576,6 +4586,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25</Model>
+    <Color>зеленый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
@@ -4641,6 +4652,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25</Model>
+    <Color>зеленый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -4745,7 +4757,6 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Ultra</Model>
-    <Color>зеленый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -4814,7 +4825,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Ultra</Model>
-    <Color>белый</Color>
+    <Color>серебристый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -4849,7 +4860,7 @@
     <Model>Galaxy S25 Ultra</Model>
     <Color>серый</Color>
     <RamSize>12 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/465/qkj0vepicvmm0rtmng2tnh1gxi05l82a.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/844/4y8zuzhjdbujhkuacvm92jogs7p7gwsx.jpg" />
@@ -4885,7 +4896,7 @@
     <Model>Galaxy S25 Ultra</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/938/2lttuvu2pdkm47iw0vol6sl5egpbx6be.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/bbe/00mpd10fol8q9rg9vqlbcc8f43wpxgdd.jpg" />
@@ -4921,7 +4932,7 @@
     <Model>Galaxy S25 Ultra</Model>
     <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/daa/km8dzupubtrp2uj438ihasqdcc2gz3k3.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/777/xerc0s6avkp3gbl09jgeij3vi27zm6rn.jpg" />
@@ -4952,9 +4963,9 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Ultra</Model>
-    <Color>белый</Color>
+    <Color>серебристый</Color>
     <RamSize>12 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/81a/k7zrsnieqyik4muonrt1c2vai0ghsdt7.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/30e/as4zp4hw2yh5zsmgx4e5sn059q4cytdk.jpg" />
@@ -5129,7 +5140,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Ultra</Model>
-    <Color>белый</Color>
+    <Color>серебристый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -5971,7 +5982,7 @@
     <Model>Galaxy S26 Ultra</Model>
     <Color>черный</Color>
     <RamSize>16 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/d64/wngt0f54fvnfrzmes049xv6fb8nyra99.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/788/x2b0lhg2zsvyww7msmt22x0yhkgcnokd.jpg" />
@@ -6002,7 +6013,7 @@
     <Model>Galaxy S26 Ultra</Model>
     <Color>фиолетовый</Color>
     <RamSize>16 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a1e/xb0bnwmmlcrmezz7chceuswmezg2wppx.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3e5/s549bqi2fhssflb5sg0eohvy74wwl57n.webp" />
@@ -6036,7 +6047,7 @@
     <Model>Galaxy S26 Ultra</Model>
     <Color>серебристый</Color>
     <RamSize>16 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/f0b/u7l7qcwpkwf28xhg7kh26hl4cyzfeedt.png" />
       <Image url="https://video-shoper.ru/upload/iblock/d1c/pvvafs283uz1nl8rg9cn2znglzggoam5.png" />
@@ -6066,7 +6077,7 @@
     <Model>Galaxy S26 Ultra</Model>
     <Color>синий</Color>
     <RamSize>16 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/d09/r9u8ddspywtof31348y0fte7crdhym9z.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/fd4/qx0ecdax5uhodn587gtq0214ekboodqb.webp" />
@@ -6100,7 +6111,7 @@
     <Model>Galaxy S26 Ultra</Model>
     <Color>белый</Color>
     <RamSize>16 ГБ</RamSize>
-    <MemorySize>1 ТБ</MemorySize>
+    <MemorySize>1024 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/eae/394o3q638u46pxdshaque53be622n7ki.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/5de/w1mpjug9hkibe4csukbun4kt4xmg61s4.jpg" />
@@ -6111,8 +6122,8 @@
   </Ad>
   <Ad>
     <Id>product-285</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Vivo X300 Pro V2514 16/512Gb Black (Черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6129,7 +6140,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Vivo X300 Pro V2514 16/512Gb Black (Черный) EAC</Model>
+    <Vendor>Vivo</Vendor>
+    <Model>X300 Pro</Model>
     <Color>черный</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6140,8 +6152,8 @@
   </Ad>
   <Ad>
     <Id>product-286</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Vivo X300 Pro V2514 16/512Gb Brown (Песчаный бархат) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6158,7 +6170,9 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Vivo X300 Pro V2514 16/512Gb Brown (Песчаный бархат) EAC</Model>
+    <Vendor>Vivo</Vendor>
+    <Model>X300 Pro</Model>
+    <Color>коричневый</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -6168,8 +6182,8 @@
   </Ad>
   <Ad>
     <Id>product-287</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Vivo X300 V2515 12/256Gb (Dimensity 9500) Black (Таинственный черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6186,7 +6200,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Vivo X300 V2515 12/256Gb (Dimensity 9500) Black (Таинственный черный) EAC</Model>
+    <Vendor>Vivo</Vendor>
+    <Model>X300</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6200,8 +6215,8 @@
   </Ad>
   <Ad>
     <Id>product-288</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Vivo X300 V2515 12/256Gb (Dimensity 9500) Blue (Воздушный голубой) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6218,7 +6233,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Vivo X300 V2515 12/256Gb (Dimensity 9500) Blue (Воздушный голубой) EAC</Model>
+    <Vendor>Vivo</Vendor>
+    <Model>X300</Model>
     <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6232,8 +6248,8 @@
   </Ad>
   <Ad>
     <Id>product-289</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Vivo X300 V2515 16/512Gb (Dimensity 9500) Blue (Воздушный голубой) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6250,7 +6266,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Vivo X300 V2515 16/512Gb (Dimensity 9500) Blue (Воздушный голубой) EAC</Model>
+    <Vendor>Vivo</Vendor>
+    <Model>X300</Model>
     <Color>синий</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6264,8 +6281,8 @@
   </Ad>
   <Ad>
     <Id>product-303</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Ксиаоми 17 5G 12Gb/256Gb (NFC) (Snapdragon 8 Elite Gen 5) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6282,7 +6299,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Ксиаоми 17 5G 12Gb/256Gb (NFC) (Snapdragon 8 Elite Gen 5) Black (черный) EAC</Model>
+    <Vendor>Xiaomi</Vendor>
+    <Model>17</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6294,8 +6312,8 @@
   </Ad>
   <Ad>
     <Id>product-308</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Ксиаоми 17 5G 12Gb/512Gb (NFC) (Snapdragon 8 Elite Gen 5) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6312,7 +6330,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Ксиаоми 17 5G 12Gb/512Gb (NFC) (Snapdragon 8 Elite Gen 5) Black (черный) EAC</Model>
+    <Vendor>Xiaomi</Vendor>
+    <Model>17</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6328,8 +6347,8 @@
   </Ad>
   <Ad>
     <Id>product-352</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Black (черный) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6346,7 +6365,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Black (черный) (Европа)</Model>
+    <Vendor>POCO</Vendor>
+    <Model>C85</Model>
     <Color>черный</Color>
     <RamSize>6 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6357,8 +6377,8 @@
   </Ad>
   <Ad>
     <Id>product-353</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Green (зеленый) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6375,8 +6395,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Green (зеленый) (Европа)</Model>
-    <Color>зеленый</Color>
+    <Vendor>POCO</Vendor>
+    <Model>C85</Model>
     <RamSize>6 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
@@ -6386,8 +6406,8 @@
   </Ad>
   <Ad>
     <Id>product-354</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Purple (фиолетовый) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6404,7 +6424,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Purple (фиолетовый) (Европа)</Model>
+    <Vendor>POCO</Vendor>
+    <Model>C85</Model>
     <Color>фиолетовый</Color>
     <RamSize>6 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6415,8 +6436,8 @@
   </Ad>
   <Ad>
     <Id>product-355</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>ПОКО C85 4G 8/256Gb (Helio G81 Ultra) Green (зеленый) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6433,8 +6454,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>ПОКО C85 4G 8/256Gb (Helio G81 Ultra) Green (зеленый) (Европа)</Model>
-    <Color>зеленый</Color>
+    <Vendor>POCO</Vendor>
+    <Model>C85</Model>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -6444,8 +6465,8 @@
   </Ad>
   <Ad>
     <Id>product-356</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>ПОКО C85 4G 8/256Gb (Helio G81 Ultra) Green (зеленый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6462,8 +6483,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>ПОКО C85 4G 8/256Gb (Helio G81 Ultra) Green (зеленый) EAC</Model>
-    <Color>зеленый</Color>
+    <Vendor>POCO</Vendor>
+    <Model>C85</Model>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -6473,8 +6494,8 @@
   </Ad>
   <Ad>
     <Id>product-384</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>ПОКО X8 Pro 5G 12/512Gb (Dimensity 8500-Ultra) White (белый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6491,7 +6512,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>ПОКО X8 Pro 5G 12/512Gb (Dimensity 8500-Ultra) White (белый) EAC</Model>
+    <Vendor>POCO</Vendor>
+    <Model>X8 Pro</Model>
     <Color>белый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6502,8 +6524,8 @@
   </Ad>
   <Ad>
     <Id>product-386</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>ПОКО X8 Pro 5G 8/256Gb (Dimensity 8500-Ultra) White (белый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6520,7 +6542,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>ПОКО X8 Pro 5G 8/256Gb (Dimensity 8500-Ultra) White (белый) EAC</Model>
+    <Vendor>POCO</Vendor>
+    <Model>X8 Pro</Model>
     <Color>белый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6531,8 +6554,8 @@
   </Ad>
   <Ad>
     <Id>product-387</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>ПОКО X8 Pro 5G 8/512Gb (Dimensity 8500-Ultra) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6549,7 +6572,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>ПОКО X8 Pro 5G 8/512Gb (Dimensity 8500-Ultra) Black (черный) EAC</Model>
+    <Vendor>POCO</Vendor>
+    <Model>X8 Pro</Model>
     <Color>черный</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6563,8 +6587,8 @@
   </Ad>
   <Ad>
     <Id>product-389</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>ПОКО X8 Pro 5G 8/512Gb (Dimensity 8500-Ultra) White (белый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6581,7 +6605,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>ПОКО X8 Pro 5G 8/512Gb (Dimensity 8500-Ultra) White (белый) EAC</Model>
+    <Vendor>POCO</Vendor>
+    <Model>X8 Pro</Model>
     <Color>белый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6592,8 +6617,8 @@
   </Ad>
   <Ad>
     <Id>product-343</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Редми Нот 15 Pro 4G 8Gb/256Gb (Helio G200-Ultra) Black (чёрный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6610,7 +6635,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Редми Нот 15 Pro 4G  8Gb/256Gb (Helio G200-Ultra) Black (чёрный) EAC</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 15 Pro</Model>
     <Color>черный</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6623,8 +6649,8 @@
   </Ad>
   <Ad>
     <Id>product-317</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Рэдми Нот 13 Pro 4G 8Gb/256Gb зелёный (Forest green) (Helio G99) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6641,8 +6667,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Рэдми Нот 13 Pro 4G 8Gb/256Gb зелёный (Forest green) (Helio G99) (Европа)</Model>
-    <Color>зеленый</Color>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 13 Pro</Model>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -6656,8 +6682,8 @@
   </Ad>
   <Ad>
     <Id>product-318</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Рэдми Нот 13 Pro 4G 8Gb/256Gb фиолетовый (Lavender purple) (Helio G99) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6674,7 +6700,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Рэдми Нот 13 Pro 4G 8Gb/256Gb фиолетовый (Lavender purple) (Helio G99) (Европа)</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 13 Pro</Model>
     <Color>фиолетовый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6689,8 +6716,8 @@
   </Ad>
   <Ad>
     <Id>product-332</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Рэдми Нот 15 6Gb/128Gb (Helio G100-Ultra) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6707,7 +6734,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Рэдми Нот 15 6Gb/128Gb (Helio G100-Ultra) Black (черный) EAC</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 15</Model>
     <Color>черный</Color>
     <RamSize>6 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6719,8 +6747,8 @@
   </Ad>
   <Ad>
     <Id>product-334</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Рэдми Нот 15 6Gb/128Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6737,7 +6765,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Рэдми Нот 15 6Gb/128Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 15</Model>
     <Color>фиолетовый</Color>
     <RamSize>6 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6749,8 +6778,8 @@
   </Ad>
   <Ad>
     <Id>product-335</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Рэдми Нот 15 8Gb/128Gb (Helio G100-Ultra) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6767,7 +6796,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Рэдми Нот 15 8Gb/128Gb (Helio G100-Ultra) Black (черный) EAC</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 15</Model>
     <Color>черный</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6779,8 +6809,8 @@
   </Ad>
   <Ad>
     <Id>product-337</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Рэдми Нот 15 8Gb/128Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6797,7 +6827,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Рэдми Нот 15 8Gb/128Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 15</Model>
     <Color>фиолетовый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6809,8 +6840,8 @@
   </Ad>
   <Ad>
     <Id>product-329</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Рэдми Нот 15 8Gb/256Gb (Helio G100-Ultra) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6827,7 +6858,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Рэдми Нот 15 8Gb/256Gb (Helio G100-Ultra) Black (черный) EAC</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 15</Model>
     <Color>черный</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6839,8 +6871,8 @@
   </Ad>
   <Ad>
     <Id>product-331</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Рэдми Нот 15 8Gb/256Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6857,7 +6889,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Рэдми Нот 15 8Gb/256Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 15</Model>
     <Color>фиолетовый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6869,8 +6902,8 @@
   </Ad>
   <Ad>
     <Id>product-339</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Рэдми Нот 15 Pro 4G 12Gb/256Gb (Helio G200-Ultra) Black (чёрный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6887,7 +6920,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Рэдми Нот 15 Pro 4G  12Gb/256Gb (Helio G200-Ultra) Black (чёрный) EAC</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 15 Pro</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6900,8 +6934,8 @@
   </Ad>
   <Ad>
     <Id>product-345</Id>
-    <Category>Электроника</Category>
-    <GoodsType>Другое</GoodsType>
+    <Category>Телефоны</Category>
+    <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Рэдми Нот 15 Pro 4G 12Gb/512Gb (Helio G200-Ultra) Black (чёрный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6918,7 +6952,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Model>Рэдми Нот 15 Pro 4G  12Gb/512Gb (Helio G200-Ultra) Black (чёрный) EAC</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Note 15 Pro</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
