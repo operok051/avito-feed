@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>item-eb9350c008566647</Id>
+    <Id>product-2</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 14 256Gb (NanoSim+eSim) Midnight (черный)</Title>
@@ -31,7 +31,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-5f6c08bbcf23a7f2</Id>
+    <Id>product-3</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 15 128Gb (NanoSim+eSim) Yellow (желтый)</Title>
@@ -52,7 +52,6 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 15</Model>
-    <Color>желтый</Color>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/250/eg7t0r9nu3qzjdux6jf0z08tmfn430vk.webp" />
@@ -60,7 +59,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-3f90f8da8fad6d3b</Id>
+    <Id>product-4</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 15 256Gb (NanoSim+eSim) Black (черный)</Title>
@@ -89,7 +88,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-6bf714d045c2a1b0</Id>
+    <Id>product-5</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 15 256Gb (NanoSim+eSim) Blue (cиний)</Title>
@@ -118,7 +117,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-48754aa0b53292d9</Id>
+    <Id>product-6</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 128Gb (NanoSim+eSim) Pink (розовый)</Title>
@@ -140,6 +139,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 16</Model>
     <Color>розовый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/f00/9sijs9w3jer58hnh32oib3u1264a7hg1.jpg" />
@@ -148,7 +148,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-654e8d0d5fd240f0</Id>
+    <Id>product-8</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 128Gb (NanoSim+eSim) Teal (бирюзовый)</Title>
@@ -169,7 +169,8 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 16</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/0fa/gdgxn6gbtvbiqatxawsc9qfikx00o14i.jpg" />
@@ -177,7 +178,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-86a59d6b372bdd89</Id>
+    <Id>product-9</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 128Gb (NanoSim+eSim) Ultramarine (синий)</Title>
@@ -199,6 +200,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 16</Model>
     <Color>синий</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/008/y2ahbz9m9yq02205njk0fmpqyizaurlb.webp" />
@@ -208,7 +210,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-906dbff083cdf5f9</Id>
+    <Id>product-10</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 128Gb (NanoSim+eSim) White (белый)</Title>
@@ -230,6 +232,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 16</Model>
     <Color>белый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/e9e/0z9xmyh31o8hhzm4nx91sy0a5n7iqz0b.jpg" />
@@ -239,7 +242,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-0c1357ae39c10494</Id>
+    <Id>product-11</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 256Gb (NanoSim+eSim) Black (черный)</Title>
@@ -261,6 +264,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 16</Model>
     <Color>черный</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/a35/9snek3i3c40tbm8f85dujwutdguuq5t0.jpg" />
@@ -269,7 +273,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-f0980364ced6deb3</Id>
+    <Id>product-12</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 256Gb (NanoSim+eSim) Pink (розовый)</Title>
@@ -291,6 +295,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 16</Model>
     <Color>розовый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/f00/9sijs9w3jer58hnh32oib3u1264a7hg1.jpg" />
@@ -299,7 +304,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-68b795ae03e900ee</Id>
+    <Id>product-13</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 256Gb (NanoSim+eSim) Ultramarine (синий)</Title>
@@ -321,6 +326,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 16</Model>
     <Color>синий</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/a35/9snek3i3c40tbm8f85dujwutdguuq5t0.jpg" />
@@ -329,7 +335,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-2f6ab2815ccb7edc</Id>
+    <Id>product-16</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 Plus 128Gb (NanoSim+eSim) Pink (розовый)</Title>
@@ -351,6 +357,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Plus</Model>
     <Color>розовый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/a35/9snek3i3c40tbm8f85dujwutdguuq5t0.jpg" />
@@ -359,7 +366,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4379979682e2c9e1</Id>
+    <Id>product-17</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 Plus 256Gb (NanoSim+eSim) Ultramarine (синий)</Title>
@@ -381,6 +388,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Plus</Model>
     <Color>синий</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/a35/9snek3i3c40tbm8f85dujwutdguuq5t0.jpg" />
@@ -389,7 +397,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-5f8018e461f48dc8</Id>
+    <Id>product-18</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 Pro 128Gb (Dual) Desert Titanium (пустынный титан)</Title>
@@ -410,7 +418,6 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Pro</Model>
-    <Color>бежевый</Color>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/3fc/fbz9j9abh6nb17wbc2cosno1g19abiks.jpg" />
@@ -418,7 +425,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4e46fac2ded58265</Id>
+    <Id>product-19</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 Pro 512Gb (NanoSim+eSim) Desert Titanium (пустынный титан)</Title>
@@ -439,7 +446,6 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Pro</Model>
-    <Color>бежевый</Color>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a63/09xyv6cqri0qc6199g897qme5ej5xwrn.webp" />
@@ -450,7 +456,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-c045852436a40a50</Id>
+    <Id>product-20</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 Pro Max 256Gb (NanoSim+eSim) Desert Titanium (пустынный титан)</Title>
@@ -471,7 +477,6 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Pro Max</Model>
-    <Color>бежевый</Color>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a63/09xyv6cqri0qc6199g897qme5ej5xwrn.webp" />
@@ -482,7 +487,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-f4040dd572698b4c</Id>
+    <Id>product-21</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 Pro Max 256Gb (NanoSim+eSim) White Titanium (Белый)</Title>
@@ -513,7 +518,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-49aeabf442aa624e</Id>
+    <Id>product-22</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 Pro Max 512Gb (NanoSim+eSim) Black Titanium (Черный)</Title>
@@ -544,7 +549,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-28d46bc187f9a0d5</Id>
+    <Id>product-23</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 Pro Max 512Gb (NanoSim+eSim) Desert Titanium (пустынный титан)</Title>
@@ -565,7 +570,6 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Pro Max</Model>
-    <Color>бежевый</Color>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a63/09xyv6cqri0qc6199g897qme5ej5xwrn.webp" />
@@ -576,7 +580,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-d62b293aaf3f47ce</Id>
+    <Id>product-24</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 Pro Max 512Gb (NanoSim+eSim) Natural Titanium (натуральный титан)</Title>
@@ -597,7 +601,6 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 16 Pro Max</Model>
-    <Color>серый</Color>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/d59/varlquz33zxi7wh18dzcb53qekaai6cc.webp" />
@@ -608,7 +611,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4791bf4ba6e8fa4a</Id>
+    <Id>product-25</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 16 Pro Max 512Gb (NanoSim+eSim) White Titanium (белый титан)</Title>
@@ -639,9 +642,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-a89fcb2179d1dea8</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-14</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Apple iPhone 16е 128Gb (NanoSim+eSim) Black (черный)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -659,8 +662,9 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 16e</Model>
+    <Model>iPhone 16</Model>
     <Color>черный</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/a35/9snek3i3c40tbm8f85dujwutdguuq5t0.jpg" />
@@ -669,7 +673,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-9a49fba52f5129b3</Id>
+    <Id>product-27</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 256Gb (NanoSim+eSim) Black (черный)</Title>
@@ -691,6 +695,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>черный</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/32c/yjvbxkly111bczr9odcw68s1bvw053iv.jpg" />
@@ -704,7 +709,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4e9c925365c39a9e</Id>
+    <Id>product-28</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 256Gb (NanoSim+eSim) Lavander (лавандовый)</Title>
@@ -726,6 +731,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>фиолетовый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/93e/7z6003bxxic5x2irl27vtdy3ps79vdy3.jpg" />
@@ -737,7 +743,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-98868d94eb69d95d</Id>
+    <Id>product-30</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 256Gb (NanoSim+eSim) Mist Blue (голубой)</Title>
@@ -758,7 +764,8 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/602/aziyfvvbebbhfw9gl3h990cxhecu79rj.jpg" />
@@ -770,7 +777,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-78b6b20feb4e6b16</Id>
+    <Id>product-31</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 256Gb (NanoSim+eSim) Sage (зеленый)</Title>
@@ -792,6 +799,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>зеленый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/b6f/lr7pi8rw8zjef2lxj9qshemhyh8st93a.webp" />
@@ -802,7 +810,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4522e7e94e5d1eec</Id>
+    <Id>product-32</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 256Gb (NanoSim+eSim) White (белый)</Title>
@@ -824,6 +832,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>белый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/32c/yjvbxkly111bczr9odcw68s1bvw053iv.jpg" />
@@ -833,7 +842,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-b3c4ea39cc5b5118</Id>
+    <Id>product-26</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 256Gb (eSim) White (белый)</Title>
@@ -855,6 +864,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>белый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/32c/yjvbxkly111bczr9odcw68s1bvw053iv.jpg" />
@@ -868,7 +878,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-2b3fc8f14c5989b4</Id>
+    <Id>product-37</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 512Gb (NanoSim+eSim) Black (черный)</Title>
@@ -890,6 +900,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>черный</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
@@ -900,7 +911,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-648e0562cfb30da0</Id>
+    <Id>product-38</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 512Gb (NanoSim+eSim) Sage (зеленый)</Title>
@@ -922,6 +933,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>зеленый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
@@ -932,7 +944,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-442f66b4c2f56420</Id>
+    <Id>product-39</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 512Gb (NanoSim+eSim) White (белый)</Title>
@@ -954,6 +966,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>белый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
@@ -964,7 +977,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-acfe47326969b7c0</Id>
+    <Id>product-33</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 512Gb (eSim) Black (черный)</Title>
@@ -986,6 +999,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>черный</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/72c/0bp23pqxdgghugp60z2zdt4ob2um7b6j.jpg" />
@@ -993,7 +1007,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-278ee16e93cc276b</Id>
+    <Id>product-34</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 512Gb (eSim) Mist Blue (голубой)</Title>
@@ -1014,7 +1028,8 @@
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
@@ -1025,7 +1040,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-828f112b4b688756</Id>
+    <Id>product-35</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 512Gb (eSim) Sage (зеленый)</Title>
@@ -1047,6 +1062,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>зеленый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a79/j32zcsjz2a8y50drnb8abm8mxqpwqwqq.webp" />
@@ -1056,7 +1072,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-892c1089cd4a15a1</Id>
+    <Id>product-36</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 512Gb (eSim) White (белый)</Title>
@@ -1078,6 +1094,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17</Model>
     <Color>белый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/32c/yjvbxkly111bczr9odcw68s1bvw053iv.jpg" />
@@ -1087,7 +1104,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-47d23f6ec09bf6ae</Id>
+    <Id>product-57</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 1Tb (NanoSim+eSim) Blue (Синий)</Title>
@@ -1109,7 +1126,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>синий</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/382/d0ogu2l659vkjnxgzf3lwgchb6sx1jp3.webp" />
@@ -1119,7 +1137,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-cf0633332b50741b</Id>
+    <Id>product-58</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 1Tb (NanoSim+eSim) Orange (оранжевый)</Title>
@@ -1141,7 +1159,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>оранжевый</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8d9/icfbgno7s9izdxdem0zp8gu5oq1eul3s.webp" />
@@ -1150,7 +1169,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-ddf2cef9ecad53ca</Id>
+    <Id>product-59</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 1Tb (NanoSim+eSim) Silver (серебро)</Title>
@@ -1172,7 +1191,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>серебристый</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/e92/j1su08b8bx08qifoo36f2xjw21m998eo.webp" />
@@ -1182,7 +1202,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-3344415e8d117d9d</Id>
+    <Id>product-54</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 1Tb (eSim) Blue (cиний)</Title>
@@ -1204,7 +1224,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>синий</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/382/d0ogu2l659vkjnxgzf3lwgchb6sx1jp3.webp" />
@@ -1214,7 +1235,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-fd57e3570798d751</Id>
+    <Id>product-55</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 1Tb (eSim) Orange (оранжевый)</Title>
@@ -1236,7 +1257,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>оранжевый</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0c6/perw5vqmlu4zcuktssquxu5av2v5jy6m.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/38f/mka5lv1pwm2nuvpwrvh970autyrhabiu.webp" />
@@ -1246,7 +1268,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-330e9f2c16bba660</Id>
+    <Id>product-56</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 1Tb (eSim) Silver (серебро)</Title>
@@ -1268,7 +1290,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>серебристый</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/e92/j1su08b8bx08qifoo36f2xjw21m998eo.webp" />
@@ -1278,7 +1301,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-82e746eaac294699</Id>
+    <Id>product-41</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 256Gb (Dual) Orange (оранжевый)</Title>
@@ -1300,6 +1323,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>оранжевый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0c6/perw5vqmlu4zcuktssquxu5av2v5jy6m.webp" />
@@ -1310,7 +1334,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-7f13ecf5130eb94a</Id>
+    <Id>product-45</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 256Gb (NanoSim+eSim) Blue (синий)</Title>
@@ -1332,6 +1356,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>синий</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
@@ -1342,7 +1367,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-d14507798e447ca8</Id>
+    <Id>product-46</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 256Gb (NanoSim+eSim) Orange (оранжевый)</Title>
@@ -1364,6 +1389,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>оранжевый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
@@ -1373,7 +1399,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-0b7e4379e5b861cc</Id>
+    <Id>product-47</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 256Gb (NanoSim+eSim) Silver (серебро)</Title>
@@ -1395,6 +1421,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>серебристый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
@@ -1405,7 +1432,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-64ef126a3202eb0f</Id>
+    <Id>product-42</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 256Gb (eSim) Blue (синий)</Title>
@@ -1427,6 +1454,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>синий</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/b6f/lr7pi8rw8zjef2lxj9qshemhyh8st93a.webp" />
@@ -1437,7 +1465,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-fdf0e3555a4d83df</Id>
+    <Id>product-43</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 256Gb (eSim) Orange (оранжевый)</Title>
@@ -1459,6 +1487,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>оранжевый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0c6/perw5vqmlu4zcuktssquxu5av2v5jy6m.webp" />
@@ -1469,7 +1498,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-6a83d51441211e5c</Id>
+    <Id>product-44</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 256Gb (eSim) Silver (серебро)</Title>
@@ -1491,6 +1520,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>серебристый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
@@ -1501,7 +1531,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-724a427361859955</Id>
+    <Id>product-51</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 512Gb (NanoSim+eSim) Blue (синий)</Title>
@@ -1523,6 +1553,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>синий</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
@@ -1533,7 +1564,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-0bc5187268fc0925</Id>
+    <Id>product-52</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 512Gb (NanoSim+eSim) Orange (оранжевый)</Title>
@@ -1555,6 +1586,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>оранжевый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0c6/perw5vqmlu4zcuktssquxu5av2v5jy6m.webp" />
@@ -1565,7 +1597,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-9ca6641e218ee991</Id>
+    <Id>product-53</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 512Gb (NanoSim+eSim) Silver (серебро)</Title>
@@ -1587,6 +1619,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>серебристый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
@@ -1597,7 +1630,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-7aa8489f3f2d52a8</Id>
+    <Id>product-48</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 512Gb (eSim) Blue (синий)</Title>
@@ -1619,6 +1652,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>синий</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/b6f/lr7pi8rw8zjef2lxj9qshemhyh8st93a.webp" />
@@ -1629,7 +1663,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-391a2f548e8eeebe</Id>
+    <Id>product-49</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 512Gb (eSim) Orange (оранжевый)</Title>
@@ -1651,6 +1685,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>оранжевый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0c6/perw5vqmlu4zcuktssquxu5av2v5jy6m.webp" />
@@ -1661,7 +1696,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-6be5f73741c24cf7</Id>
+    <Id>product-50</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro 512Gb (eSim) Silver (серебро)</Title>
@@ -1683,6 +1718,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro</Model>
     <Color>серебристый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
@@ -1693,7 +1729,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-ec86d049af939a5c</Id>
+    <Id>product-75</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 1Tb (NanoSim+eSim) Deep Blue (синий)</Title>
@@ -1715,7 +1751,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>синий</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/382/d0ogu2l659vkjnxgzf3lwgchb6sx1jp3.webp" />
@@ -1725,7 +1762,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-0bf4bad6529d9144</Id>
+    <Id>product-76</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 1Tb (NanoSim+eSim) Orange (оранжевый)</Title>
@@ -1747,7 +1784,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>оранжевый</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8d9/icfbgno7s9izdxdem0zp8gu5oq1eul3s.webp" />
@@ -1756,7 +1794,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-a48433f7798610b7</Id>
+    <Id>product-77</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 1Tb (NanoSim+eSim) Silver (серебро)</Title>
@@ -1778,7 +1816,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/e92/j1su08b8bx08qifoo36f2xjw21m998eo.webp" />
@@ -1788,7 +1827,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-c3f2ae1f402f1c42</Id>
+    <Id>product-73</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 1Tb (eSim) Orange (оранжевый)</Title>
@@ -1810,7 +1849,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>оранжевый</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8d9/icfbgno7s9izdxdem0zp8gu5oq1eul3s.webp" />
@@ -1819,7 +1859,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-67ea4079dc4645be</Id>
+    <Id>product-74</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 1Tb (eSim) Silver (серебро)</Title>
@@ -1841,7 +1881,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
-    <MemorySize>1024 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0a1/ynib8r3icn86kd9ewd68ay95f02e8us5.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/1b4/6ouioxn16wlz1y7r79c3lr1x38afxg47.webp" />
@@ -1851,7 +1892,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-840e2b536f8bf765</Id>
+    <Id>product-63</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 256Gb (NanoSim+eSim) Blue (синий)</Title>
@@ -1873,6 +1914,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>синий</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
@@ -1883,7 +1925,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-1d192c9adce8a740</Id>
+    <Id>product-64</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 256Gb (NanoSim+eSim) Orange (оранжевый)</Title>
@@ -1905,6 +1947,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>оранжевый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
@@ -1914,7 +1957,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-a4aebf8a67ec6e63</Id>
+    <Id>product-65</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 256Gb (NanoSim+eSim) Silver (серебро)</Title>
@@ -1936,6 +1979,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0a1/ynib8r3icn86kd9ewd68ay95f02e8us5.webp" />
@@ -1946,7 +1990,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-c80029da485a1084</Id>
+    <Id>product-60</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 256Gb (eSim) Blue (синий)</Title>
@@ -1968,6 +2012,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>синий</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
@@ -1978,7 +2023,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-0a6de036a31e01e7</Id>
+    <Id>product-61</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 256Gb (eSim) Orange (оранжевый)</Title>
@@ -2000,6 +2045,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>оранжевый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
@@ -2009,7 +2055,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-1c228af8bca2c135</Id>
+    <Id>product-62</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 256Gb (eSim) Silver (серебро)</Title>
@@ -2031,6 +2077,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0a1/ynib8r3icn86kd9ewd68ay95f02e8us5.webp" />
@@ -2041,7 +2088,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-04ed549d916f0e73</Id>
+    <Id>product-81</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 2Tb (NanoSim+eSim) Silver (серебро)</Title>
@@ -2063,7 +2110,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
-    <MemorySize>2048 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>2 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0a1/ynib8r3icn86kd9ewd68ay95f02e8us5.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/1b4/6ouioxn16wlz1y7r79c3lr1x38afxg47.webp" />
@@ -2073,7 +2121,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4f2d41202d45761c</Id>
+    <Id>product-78</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 2Tb (eSim) Deep Blue (синий)</Title>
@@ -2095,7 +2143,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>синий</Color>
-    <MemorySize>2048 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>2 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/382/d0ogu2l659vkjnxgzf3lwgchb6sx1jp3.webp" />
@@ -2105,7 +2154,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-8aa1e65474231b06</Id>
+    <Id>product-79</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 2Tb (eSim) Orange (оранжевый)</Title>
@@ -2127,7 +2176,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>оранжевый</Color>
-    <MemorySize>2048 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>2 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/8d9/icfbgno7s9izdxdem0zp8gu5oq1eul3s.webp" />
@@ -2136,7 +2186,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-c41def16d58828e0</Id>
+    <Id>product-80</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 2Tb (eSim) Silver (серебро)</Title>
@@ -2158,7 +2208,8 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
-    <MemorySize>2048 ГБ</MemorySize>
+    <RamSize>12 ГБ</RamSize>
+    <MemorySize>2 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0a1/ynib8r3icn86kd9ewd68ay95f02e8us5.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/1b4/6ouioxn16wlz1y7r79c3lr1x38afxg47.webp" />
@@ -2168,7 +2219,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-1d3297a4c03c0d4b</Id>
+    <Id>product-69</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 512Gb (NanoSim+eSim) Blue (синий)</Title>
@@ -2190,6 +2241,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>синий</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
@@ -2200,7 +2252,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-8e1832c009e8059a</Id>
+    <Id>product-70</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 512Gb (NanoSim+eSim) Orange (оранжевый)</Title>
@@ -2222,6 +2274,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>оранжевый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
@@ -2231,7 +2284,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-602d0289d27893ca</Id>
+    <Id>product-72</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 512Gb (NanoSim+eSim) Silver (серебро)</Title>
@@ -2253,6 +2306,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/cf3/0imxfd4flhtwdsikwyhzdng9kn5kg9eh.webp" />
@@ -2263,7 +2317,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-f93dfaf623dcc95a</Id>
+    <Id>product-66</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 512Gb (eSim) Blue (синий)</Title>
@@ -2285,6 +2339,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>синий</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/2e9/26x625wsdzfp6fu1o55101l7hmuhmmey.webp" />
@@ -2295,7 +2350,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-e771547e6adb41ec</Id>
+    <Id>product-67</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 512Gb (eSim) Orange (оранжевый)</Title>
@@ -2317,6 +2372,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>оранжевый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3ea/2hgcuido9wmzyg7z5amgpic28xspmnon.webp" />
@@ -2326,7 +2382,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-c5c7072a71d2713a</Id>
+    <Id>product-68</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17 Pro Max 512Gb (eSim) Silver (серебро)</Title>
@@ -2348,6 +2404,7 @@
     <Vendor>Apple</Vendor>
     <Model>iPhone 17 Pro Max</Model>
     <Color>серебристый</Color>
+    <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/0a1/ynib8r3icn86kd9ewd68ay95f02e8us5.webp" />
@@ -2358,7 +2415,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-8078f2dc34c7af2a</Id>
+    <Id>product-84</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17e (NanoSim+eSIM) 256Gb Black (черный)</Title>
@@ -2378,8 +2435,9 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 17e</Model>
+    <Model>iPhone 17</Model>
     <Color>черный</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/7c1/af00z5q8dtz4u9i8cb9syujzq4bb49qv.png" />
@@ -2388,7 +2446,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-7627d4abd09e703f</Id>
+    <Id>product-85</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17e (NanoSim+eSIM) 256Gb White (белый)</Title>
@@ -2408,8 +2466,9 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 17e</Model>
+    <Model>iPhone 17</Model>
     <Color>белый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/5e2/kzt2hrmcx0m4k5w7nwblp53id38o2skw.png" />
@@ -2418,7 +2477,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-53e8c0da7e5d3249</Id>
+    <Id>product-82</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17e (eSIM) 256Gb Black (черный)</Title>
@@ -2438,8 +2497,9 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 17e</Model>
+    <Model>iPhone 17</Model>
     <Color>черный</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/7c1/af00z5q8dtz4u9i8cb9syujzq4bb49qv.png" />
@@ -2448,7 +2508,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-ee1fd966e86f1010</Id>
+    <Id>product-83</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Apple iPhone 17e (eSIM) 256Gb Pink (розовый)</Title>
@@ -2468,8 +2528,9 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Apple</Vendor>
-    <Model>iPhone 17e</Model>
+    <Model>iPhone 17</Model>
     <Color>розовый</Color>
+    <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/fb0/7ugsqengae482faj1bq9a5xb47a2qn8k.png" />
@@ -2481,7 +2542,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-73ac0b789c8230a2</Id>
+    <Id>product-98</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Google Pixel 10 Pro Fold 16/512Gb US moonstone (лунный серый)</Title>
@@ -2501,7 +2562,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Google</Vendor>
-    <Model>Pixel 10 Pro Fold</Model>
+    <Model>Pixel 10 Pro Fold 16/512Gb US moonstone (лунный серый)</Model>
     <Color>серый</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -2513,7 +2574,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-af8691e78a9d2b03</Id>
+    <Id>product-103</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>HONOR 600 Lite 5G 8/256Gb (NFC) (MediaTek Dimensity 7100 Elite) Вельветовый Серый EAC</Title>
@@ -2533,7 +2594,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>600 Lite</Model>
+    <Model>HONOR 600 Lite 5G 8/256Gb (NFC) (MediaTek Dimensity 7100 Elite) Вельветовый Серы</Model>
     <Color>серый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -2547,7 +2608,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-701b6c85acf4e6a0</Id>
+    <Id>product-104</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>HONOR 600 Lite 5G 8/256Gb (NFC) (MediaTek Dimensity 7100 Elite) Вельветовый Черный EAC</Title>
@@ -2567,7 +2628,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>600 Lite</Model>
+    <Model>HONOR 600 Lite 5G 8/256Gb (NFC) (MediaTek Dimensity 7100 Elite) Вельветовый Черн</Model>
     <Color>черный</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -2581,7 +2642,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-dbf895a8b3319075</Id>
+    <Id>product-105</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>HONOR 600 Lite 5G 8/256Gb (NFC) (MediaTek Dimensity 7100 Elite) Пустынный Золотой EAC</Title>
@@ -2601,7 +2662,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>600 Lite</Model>
+    <Model>HONOR 600 Lite 5G 8/256Gb (NFC) (MediaTek Dimensity 7100 Elite) Пустынный Золото</Model>
     <Color>золотой</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -2616,7 +2677,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-790151ca354a1e7d</Id>
+    <Id>product-119</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>HONOR X9d 8/256Gb 5G (NFC) (Snapdragon 6 Gen4) бежевый EAC</Title>
@@ -2636,7 +2697,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>X9d</Model>
+    <Model>HONOR X9d   8/256Gb 5G (NFC) (Snapdragon 6 Gen4) бежевый EAC</Model>
     <Color>бежевый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -2648,7 +2709,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-7b7dbdd29c00ad2b</Id>
+    <Id>product-120</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>HONOR X9d 8/256Gb 5G (NFC) (Snapdragon 6 Gen4) терракотовый EAC</Title>
@@ -2668,8 +2729,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>X9d</Model>
-    <Color>оранжевый</Color>
+    <Model>HONOR X9d   8/256Gb 5G (NFC) (Snapdragon 6 Gen4) терракотовый EAC</Model>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2680,7 +2740,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-776e0c4c399179c2</Id>
+    <Id>product-121</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>HONOR X9d 12/256Gb 5G (NFC) (Snapdragon 6 Gen4) графитовый EAC</Title>
@@ -2700,8 +2760,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>X9d</Model>
-    <Color>серый</Color>
+    <Model>HONOR X9d  12/256Gb 5G (NFC) (Snapdragon 6 Gen4) графитовый EAC</Model>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2712,7 +2771,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-10738b779532d572</Id>
+    <Id>product-122</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>HONOR X9d 12/256Gb 5G (NFC) (Snapdragon 6 Gen4) мятный EAC</Title>
@@ -2732,8 +2791,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>X9d</Model>
-    <Color>зеленый</Color>
+    <Model>HONOR X9d  12/256Gb 5G (NFC) (Snapdragon 6 Gen4) мятный EAC</Model>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2744,7 +2802,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-fa22925ab7cbbc53</Id>
+    <Id>product-123</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>HONOR X9d 12/256Gb 5G (NFC) (Snapdragon 6 Gen4) терракотовый EAC</Title>
@@ -2764,8 +2822,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Honor</Vendor>
-    <Model>X9d</Model>
-    <Color>оранжевый</Color>
+    <Model>HONOR X9d  12/256Gb 5G (NFC) (Snapdragon 6 Gen4) терракотовый EAC</Model>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2776,7 +2833,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-5d9ef7080c6cc4f3</Id>
+    <Id>product-127</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Huawei Mate 80 Pro 16/512Gb (NFC) (HiSilicon Kirin 9030 Pro) Зеленый EAC Не открывать!!!</Title>
@@ -2796,7 +2853,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Mate 80 Pro</Model>
+    <Model>Mate 80 Pro 16/512Gb (NFC) (HiSilicon Kirin 9030 Pro) Зеленый EAC Не открывать!!</Model>
     <Color>зеленый</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -2810,7 +2867,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-0e25b83773b2569b</Id>
+    <Id>product-142</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Huawei Nova 14i Dual 8/256Gb Snapdragon 680 голубой EAC</Title>
@@ -2830,8 +2887,8 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Nova 14i</Model>
-    <Color>голубой</Color>
+    <Model>Nova 14i Dual 8/256Gb Snapdragon 680 голубой EAC</Model>
+    <Color>синий</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -2845,7 +2902,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-85a2deda82f6a7c3</Id>
+    <Id>product-124</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Huawei Pura 80 Ultra 16/512 Gb Golden Black (черный) (Европа)</Title>
@@ -2865,8 +2922,8 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Pura 80 Ultra</Model>
-    <Color>золотой</Color>
+    <Model>Pura 80 Ultra 16/512 Gb Golden Black (черный) (Европа)</Model>
+    <Color>черный</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -2877,7 +2934,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-6810cccb4c5d4917</Id>
+    <Id>product-125</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Huawei Pura 80 Ultra 16/512 Gb Prestige Gold (золото) (Европа)</Title>
@@ -2897,7 +2954,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Pura 80 Ultra</Model>
+    <Model>Pura 80 Ultra 16/512 Gb Prestige Gold (золото) (Европа)</Model>
     <Color>золотой</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -2909,7 +2966,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-edbcaa2e6d9fdef7</Id>
+    <Id>product-147</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Huawei Pura 80 Ultra 16/512Gb Kirin 9020 Сверкающий золотой ЕАС</Title>
@@ -2929,7 +2986,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Pura 80 Ultra</Model>
+    <Model>Pura 80 Ultra 16/512Gb Kirin 9020 Сверкающий золотой ЕАС</Model>
     <Color>золотой</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -2942,7 +2999,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-00c86ba9bd24fa29</Id>
+    <Id>product-148</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Huawei Pura 80 Ultra 16/512Gb Kirin 9020 Черный ЕАС</Title>
@@ -2962,7 +3019,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Huawei</Vendor>
-    <Model>Pura 80 Ultra</Model>
+    <Model>Pura 80 Ultra 16/512Gb Kirin 9020 Черный ЕАС</Model>
     <Color>черный</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -2974,9 +3031,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-e5377bb537d3c914</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-164</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>One Plus Nord 5 12Gb/512Gb Phantom Grey (Серый) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -2994,7 +3051,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>OnePlus</Vendor>
-    <Model>OnePlus Nord 5</Model>
+    <Model>One Plus Nord 5 12Gb/512Gb Phantom Grey (Серый)  (Европа)</Model>
     <Color>серый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -3009,9 +3066,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-b4ea3dbf70c2b494</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-165</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>One Plus Nord 5 8Gb/256Gb Phantom Grey (Серый) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -3029,7 +3086,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>OnePlus</Vendor>
-    <Model>OnePlus Nord 5</Model>
+    <Model>One Plus Nord 5 8Gb/256Gb Phantom Grey (Серый)  (Европа)</Model>
     <Color>серый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -3044,7 +3101,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-95ad6b53844779e0</Id>
+    <Id>product-194</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S921B/DS Galaxy S24 8/256Gb DualSim+eSim (NFC) (Exynos 2400) Black (черный)</Title>
@@ -3074,7 +3131,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-666d5fee36c4a696</Id>
+    <Id>product-195</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S921E/DS Galaxy S24 8/256Gb DualSim+eSim (NFC) (Exynos 2400) Black (черный)</Title>
@@ -3104,7 +3161,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-40034e4140f89937</Id>
+    <Id>product-208</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S936B Galaxy S25 Plus 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite) Icyblue (голубой)</Title>
@@ -3125,7 +3182,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Plus</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -3140,7 +3197,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-03c6ec01c621eb21</Id>
+    <Id>product-209</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S936B Galaxy S25 Plus 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite) Silver Shadow (серебро)</Title>
@@ -3176,7 +3233,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-3bbd93ee8bedeb6e</Id>
+    <Id>product-210</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S936B/DS Galaxy S25 Plus 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite) Navy (темно-синий)</Title>
@@ -3212,7 +3269,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-d2cabef5c33b31ba</Id>
+    <Id>product-211</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S936B/DS Galaxy S25 Plus 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite) Icyblue (голубой)</Title>
@@ -3233,7 +3290,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Plus</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -3245,7 +3302,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-64e86c6747026084</Id>
+    <Id>product-212</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S936B/DS Galaxy S25 Plus 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite) Silver Shadow (серебро)</Title>
@@ -3278,7 +3335,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-99f9d7725fef9910</Id>
+    <Id>product-248</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S936B/DS Galaxy S26 Plus 12/512Gb Dual+eSim (NFC) (Exynos 2600) Sky Blue (Голубой) EAC</Title>
@@ -3299,7 +3356,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S26 Plus</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -3314,7 +3371,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-8429032d60623d76</Id>
+    <Id>product-237</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/256Gb Dual+eSim (NFC) (Exynos 2600) (Черный)</Title>
@@ -3344,7 +3401,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-d387a5f5c1d9cbe4</Id>
+    <Id>product-238</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/256Gb Dual+eSim (NFC) (Exynos 2600) Cobalt Violet (Фиолетовый)</Title>
@@ -3374,7 +3431,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-284589a46a95d16c</Id>
+    <Id>product-239</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/256Gb Dual+eSim (NFC) (Exynos 2600) Sky Blue (голубой)</Title>
@@ -3395,7 +3452,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S26 Plus</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -3404,7 +3461,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-144b98fea62cf055</Id>
+    <Id>product-240</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/256Gb Dual+eSim (NFC) (Exynos 2600) White (Белый)</Title>
@@ -3434,7 +3491,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-06cb459dacb12c5e</Id>
+    <Id>product-241</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/256Gb Dual+eSim (NFC) (Exynos 2600) Белый EAC (Официальная гарантия)</Title>
@@ -3464,7 +3521,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-54805bd4f605718f</Id>
+    <Id>product-242</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/256Gb Dual+eSim (NFC) (Exynos 2600) Фиолетовый EAC (Официальная гарантия)</Title>
@@ -3494,7 +3551,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-212465e5314a0785</Id>
+    <Id>product-243</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/256Gb Dual+eSim (NFC) (Exynos 2600) Черный EAC (Официальная гарантия)</Title>
@@ -3528,7 +3585,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-cccc1a1ce4f44510</Id>
+    <Id>product-250</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/512Gb Dual+eSim (NFC) (Exynos 2600) Black (Черный) EAC</Title>
@@ -3562,7 +3619,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-07f74336a8312a37</Id>
+    <Id>product-244</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/512Gb Dual+eSim (NFC) (Exynos 2600) Black (черный)</Title>
@@ -3596,7 +3653,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4643908ea195db5f</Id>
+    <Id>product-245</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/512Gb Dual+eSim (NFC) (Exynos 2600) Cobalt Violet (Фиолетовый)</Title>
@@ -3630,7 +3687,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-60828535e4df8253</Id>
+    <Id>product-246</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S947B/DS Galaxy S26 Plus 12/512Gb Dual+eSim (NFC) (Exynos 2600) White (Белый)</Title>
@@ -3664,7 +3721,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-d3ab04c0a4ad4c70</Id>
+    <Id>product-170</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A366B/DS Galaxy A36 Duos 8/128Gb Awesome White (белый) (NFC) (Snapdragon 6 Gen3)</Title>
@@ -3697,7 +3754,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-b18037561e6edb56</Id>
+    <Id>product-171</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A366B/DS Galaxy A36 Duos 8/256Gb 5G лайм (Lime) (NFC) (Snapdragon 6 Gen3)</Title>
@@ -3730,7 +3787,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-5799229ea2cc2abd</Id>
+    <Id>product-172</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A366B/DS Galaxy A36 Duos 12/256Gb 5G Awesome Lavender (лаванда) (NFC) (Snapdragon 6 Gen3)</Title>
@@ -3763,7 +3820,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-7bcbaee6c047ed0f</Id>
+    <Id>product-173</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A366B/DS Galaxy A36 Duos 12/256Gb 5G Awesome Lime (зеленый) (NFC) (Snapdragon 6 Gen3)</Title>
@@ -3796,7 +3853,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-2a14e544514b8ec7</Id>
+    <Id>product-174</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A366E/DS Galaxy A36 Duos 8/128Gb 5G (NFC) (Snapdragon 6 Gen3) Серый EAC (оф.гарантия)</Title>
@@ -3829,7 +3886,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-153ee2f4155bb2bb</Id>
+    <Id>product-175</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A366E/DS Galaxy A36 Duos 8/128Gb 5G (NFC) (Snapdragon 6 Gen3) Черный EAC (оф.гарантия)</Title>
@@ -3862,7 +3919,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-44894b4b4eb9f0d6</Id>
+    <Id>product-180</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A566B Galaxy A56 5G 12Gb/256Gb (NFC) (Exynos 1580) Awesome Lightgray (светло-серый)</Title>
@@ -3898,7 +3955,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-8d226362082bbb24</Id>
+    <Id>product-181</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A566B Galaxy A56 5G 12Gb/256Gb (NFC) (Exynos 1580) Awesome Olive (зеленый)</Title>
@@ -3934,7 +3991,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-588ee365420730c7</Id>
+    <Id>product-182</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A566B Galaxy A56 5G 12Gb/256Gb (NFC) (Exynos 1580) Awesome Pink (розовый)</Title>
@@ -3970,7 +4027,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-fc1a1a08d5d21f50</Id>
+    <Id>product-176</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A566B/DS Galaxy A56 5G 8Gb/128Gb Awesome Graphite (графитовый) (NFC) (Exynos 1580)</Title>
@@ -4006,7 +4063,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-d7e925c99e4cf994</Id>
+    <Id>product-179</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A566B/DS Galaxy A56 5G 8Gb/256Gb Awesome Graphite (графитовый) (NFC) (Exynos 1580)</Title>
@@ -4042,7 +4099,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-238330b5776bd9f8</Id>
+    <Id>product-178</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A566E Galaxy A56 5G 8Gb/256Gb Awesome Graphite (графитовый) (NFC) (Exynos 1580) EAC</Title>
@@ -4078,7 +4135,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-8f82a599b42f6ce5</Id>
+    <Id>product-177</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A566E/DS Galaxy A56 5G 8Gb/128Gb (NFC) (Exynos 1580) Зеленый EAC (оф. гарантия)</Title>
@@ -4114,7 +4171,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-2dfdd235565c9eb0</Id>
+    <Id>product-183</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A576B Galaxy A57 5G 8Gb/256Gb (NFC) (Exynos 1680) Gray (Серый) (EAC)</Title>
@@ -4148,7 +4205,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4eca067aff0367de</Id>
+    <Id>product-184</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A576B Galaxy A57 5G 8Gb/256Gb (NFC) (Exynos 1680) IcyBlue (голубой) (EAC)</Title>
@@ -4169,7 +4226,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy A57</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -4181,7 +4238,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-e04eec8460d73536</Id>
+    <Id>product-185</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung A576B Galaxy A57 5G 8Gb/256Gb (NFC) (Exynos 1680) Navy (темно-синий) (EAC)</Title>
@@ -4214,7 +4271,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-246d953959bcd11d</Id>
+    <Id>product-167</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung Galaxy A26 SM-A266B/DS 6/128Gb Peach Pink (розовый)</Title>
@@ -4247,7 +4304,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-8002d714c94ede9a</Id>
+    <Id>product-168</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung Galaxy A26 SM-A266B/DS 8/256Gb White (белый)</Title>
@@ -4280,7 +4337,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-42b5bcc1e715959c</Id>
+    <Id>product-169</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung Galaxy A26 SM-A266B/DS 8/256Gb black (черный)</Title>
@@ -4313,7 +4370,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4fc3437bb3a0afea</Id>
+    <Id>product-203</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S731B Galaxy S25 FE 8/256Gb Dual+eSim (NFC) (Exynos 2400) Icyblue (голубой)</Title>
@@ -4334,7 +4391,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 FE</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -4345,7 +4402,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-2c747e585ad2542e</Id>
+    <Id>product-204</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S731B Galaxy S25 FE 8/256Gb Dual+eSim (NFC) (Exynos 2400) Navy (темно-синий)</Title>
@@ -4377,7 +4434,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-bad94967746f3314</Id>
+    <Id>product-205</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S731B Galaxy S25 FE 8/512Gb Dual+eSim (NFC) (Exynos 2400) Icyblue (голубой)</Title>
@@ -4398,7 +4455,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 FE</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -4409,7 +4466,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-5a2314317a596096</Id>
+    <Id>product-206</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S731B Galaxy S25 FE 8/512Gb Dual+eSim (NFC) (Exynos 2400) Navy (темно-синий)</Title>
@@ -4441,7 +4498,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-0a5b787ba25eb51d</Id>
+    <Id>product-207</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S731B Galaxy S25 FE 8/512Gb Dual+eSim (NFC) (Exynos 2400) White (белый)</Title>
@@ -4477,7 +4534,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-e3524e042dfa46fa</Id>
+    <Id>product-197</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S931B Galaxy S25 12/256GB (Snapdragon 8 Elite) Blueblack (сине-черный)</Title>
@@ -4498,7 +4555,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25</Model>
-    <Color>синий</Color>
+    <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -4510,7 +4567,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-37aa5926d19cf230</Id>
+    <Id>product-198</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S931B Galaxy S25 12/256GB (Snapdragon 8 Elite) Navy (Темно-синий)</Title>
@@ -4542,7 +4599,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-91595cf2855a6f54</Id>
+    <Id>product-201</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S931B Galaxy S25 12/512GB (Snapdragon 8 Elite) (Синий) EAC</Title>
@@ -4574,7 +4631,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-183299311654e6e4</Id>
+    <Id>product-196</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S931B/DS Galaxy S25 12/128GB (Snapdragon 8 Elite) Mint (мятный) EAC</Title>
@@ -4607,7 +4664,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-b2fe909d5811ae0e</Id>
+    <Id>product-199</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S931B/DS Galaxy S25 12/256GB (Snapdragon 8 Elite) Icyblue (голубой)</Title>
@@ -4628,7 +4685,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -4640,7 +4697,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-2d5ed0041c64766a</Id>
+    <Id>product-200</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S931B/DS Galaxy S25 12/256GB (Snapdragon 8 Elite) Mint (мятный)</Title>
@@ -4673,7 +4730,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-9c9b677a10a92c41</Id>
+    <Id>product-218</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B Galaxy S25 Ultra 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite 3 nm) Titanium black (черный)</Title>
@@ -4709,7 +4766,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-fcc5e444b865e14c</Id>
+    <Id>product-219</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B Galaxy S25 Ultra 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium gray (серый)</Title>
@@ -4745,7 +4802,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-b2839b9c4d9031af</Id>
+    <Id>product-220</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B Galaxy S25 Ultra 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium jadegreen (зеленый)</Title>
@@ -4778,7 +4835,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-9f8b10b03f8696bf</Id>
+    <Id>product-221</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B Galaxy S25 Ultra 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium silverblue (голубой)</Title>
@@ -4799,7 +4856,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Ultra</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -4814,7 +4871,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-f3ce8e5b3139eaa7</Id>
+    <Id>product-222</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B Galaxy S25 Ultra 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium whitesilver (серебристый)</Title>
@@ -4835,7 +4892,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Ultra</Model>
-    <Color>серебристый</Color>
+    <Color>белый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -4847,7 +4904,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-76e9ce428d2993cf</Id>
+    <Id>product-223</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B/DS Galaxy S25 Ultra 12/1Tb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium gray (серый)</Title>
@@ -4870,7 +4927,7 @@
     <Model>Galaxy S25 Ultra</Model>
     <Color>серый</Color>
     <RamSize>12 ГБ</RamSize>
-    <MemorySize>1024 ГБ</MemorySize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/465/qkj0vepicvmm0rtmng2tnh1gxi05l82a.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/844/4y8zuzhjdbujhkuacvm92jogs7p7gwsx.jpg" />
@@ -4883,7 +4940,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-d7a42c3dae606e95</Id>
+    <Id>product-224</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B/DS Galaxy S25 Ultra 12/1Tb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium black (черный)</Title>
@@ -4906,7 +4963,7 @@
     <Model>Galaxy S25 Ultra</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
-    <MemorySize>1024 ГБ</MemorySize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/938/2lttuvu2pdkm47iw0vol6sl5egpbx6be.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/bbe/00mpd10fol8q9rg9vqlbcc8f43wpxgdd.jpg" />
@@ -4919,7 +4976,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-1db42da9f19bf29f</Id>
+    <Id>product-225</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B/DS Galaxy S25 Ultra 12/1Tb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium silverblue (голубой)</Title>
@@ -4940,9 +4997,9 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Ultra</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
-    <MemorySize>1024 ГБ</MemorySize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/daa/km8dzupubtrp2uj438ihasqdcc2gz3k3.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/777/xerc0s6avkp3gbl09jgeij3vi27zm6rn.jpg" />
@@ -4952,7 +5009,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-7e8f13e9d7c23476</Id>
+    <Id>product-226</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B/DS Galaxy S25 Ultra 12/1Tb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium whitesilver (серебристый)</Title>
@@ -4973,9 +5030,9 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Ultra</Model>
-    <Color>серебристый</Color>
+    <Color>белый</Color>
     <RamSize>12 ГБ</RamSize>
-    <MemorySize>1024 ГБ</MemorySize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/81a/k7zrsnieqyik4muonrt1c2vai0ghsdt7.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/30e/as4zp4hw2yh5zsmgx4e5sn059q4cytdk.jpg" />
@@ -4985,7 +5042,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-fc4ba7777dd2bca5</Id>
+    <Id>product-213</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B/DS Galaxy S25 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Jet Black (черная смола)</Title>
@@ -5021,7 +5078,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-3ba4a2eac4ebe029</Id>
+    <Id>product-214</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B/DS Galaxy S25 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium black (черный)</Title>
@@ -5057,7 +5114,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-3ced38488a65f473</Id>
+    <Id>product-215</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B/DS Galaxy S25 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium gray (серый)</Title>
@@ -5093,7 +5150,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-363c512c7d29fa6a</Id>
+    <Id>product-216</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B/DS Galaxy S25 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium silverblue (голубой)</Title>
@@ -5114,7 +5171,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Ultra</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -5129,7 +5186,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-61bfddde7471a277</Id>
+    <Id>product-217</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S938B/DS Galaxy S25 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite3 nm) Titanium whitesilver (серебристый)</Title>
@@ -5150,7 +5207,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S25 Ultra</Model>
-    <Color>серебристый</Color>
+    <Color>белый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -5165,7 +5222,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-593a99d1346bafa5</Id>
+    <Id>product-227</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S942B/DS Galaxy S26 12/256Gb Dual+eSim (NFC) (Exynos 2600) Black (черный)</Title>
@@ -5199,7 +5256,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-ea7bf56790e6f2c0</Id>
+    <Id>product-228</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S942B/DS Galaxy S26 12/256Gb Dual+eSim (NFC) (Exynos 2600) Cobalt Violet (фиолетовый)</Title>
@@ -5229,7 +5286,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-266144c306631f76</Id>
+    <Id>product-229</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S942B/DS Galaxy S26 12/256Gb Dual+eSim (NFC) (Exynos 2600) Sky Blue (голубой)</Title>
@@ -5250,7 +5307,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S26</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -5259,7 +5316,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-396a791ee2cfa73f</Id>
+    <Id>product-230</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S942B/DS Galaxy S26 12/256Gb Dual+eSim (NFC) (Exynos 2600) White (белый)</Title>
@@ -5289,7 +5346,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-ac6ccfbb258cd8f0</Id>
+    <Id>product-231</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S942B/DS Galaxy S26 12/256Gb Dual+eSim (NFC) (Exynos 2600) Фиолетовый ЕАС (оф.гарантия)</Title>
@@ -5319,7 +5376,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-a5486fb80092a02e</Id>
+    <Id>product-232</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S942B/DS Galaxy S26 12/512Gb Dual+eSim (NFC) (Exynos 2600) Black (черный)</Title>
@@ -5349,7 +5406,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-616435980fb448a3</Id>
+    <Id>product-233</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S942B/DS Galaxy S26 12/512Gb Dual+eSim (NFC) (Exynos 2600) Cobalt Violet (фиолетовый)</Title>
@@ -5379,7 +5436,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-011eb8a7b594494f</Id>
+    <Id>product-234</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S942B/DS Galaxy S26 12/512Gb Dual+eSim (NFC) (Exynos 2600) Sky Blue (голубой)</Title>
@@ -5400,7 +5457,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S26</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -5409,7 +5466,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-34a798e29295f1ac</Id>
+    <Id>product-235</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S942B/DS Galaxy S26 12/512Gb Dual+eSim (NFC) (Exynos 2600) White (белый)</Title>
@@ -5439,7 +5496,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-7fa5ce2bf5331554</Id>
+    <Id>product-236</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S942B/DS Galaxy S26 12/512Gb Dual+eSim (NFC) (Exynos 2600) Голубой ЕАС</Title>
@@ -5460,7 +5517,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S26</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -5469,7 +5526,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-e428e594032fee91</Id>
+    <Id>product-251</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Black (черный)</Title>
@@ -5500,7 +5557,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-69e2b6883135cead</Id>
+    <Id>product-252</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Cobalt Violet (фиолетовый)</Title>
@@ -5534,7 +5591,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-9fc6cf60bf782709</Id>
+    <Id>product-253</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Sky Blue (голубой)</Title>
@@ -5555,7 +5612,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S26 Ultra</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -5568,7 +5625,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-9e97596589b89975</Id>
+    <Id>product-254</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) White (белый)</Title>
@@ -5601,7 +5658,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-c83b2479ce177d9b</Id>
+    <Id>product-255</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Белый EAC (Официальная гарантия)</Title>
@@ -5634,7 +5691,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-ee731d34466573cc</Id>
+    <Id>product-256</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Голубой EAC (Официальная гарантия)</Title>
@@ -5655,7 +5712,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S26 Ultra</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -5668,7 +5725,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-81cdfdf9b5c171a9</Id>
+    <Id>product-257</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/256Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Фиолетовый EAC (Официальная гарантия)</Title>
@@ -5702,7 +5759,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-ebe4424fc5081b4a</Id>
+    <Id>product-262</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/512Gb (NFC) (Snapdragon 8 Elite Gen5) Black (черный) EAC</Title>
@@ -5733,7 +5790,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-17c3f94537046263</Id>
+    <Id>product-263</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/512Gb (NFC) (Snapdragon 8 Elite Gen5) Sky Blue (голубой) EAC</Title>
@@ -5754,7 +5811,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S26 Ultra</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -5767,7 +5824,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-c9f7040c45efa694</Id>
+    <Id>product-264</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/512Gb (NFC) (Snapdragon 8 Elite Gen5) White (белый) EAC</Title>
@@ -5800,7 +5857,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-0e390e75b3140973</Id>
+    <Id>product-265</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) (белый) EAC (Официальная гарантия)</Title>
@@ -5833,7 +5890,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-e84c84d283ca3756</Id>
+    <Id>product-258</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Black (черный)</Title>
@@ -5868,7 +5925,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-e8021c79993cea4a</Id>
+    <Id>product-259</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Cobalt Violet (фиолетовый)</Title>
@@ -5902,7 +5959,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-41cf901ca6dc416a</Id>
+    <Id>product-260</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Sky Blue (голубой)</Title>
@@ -5923,7 +5980,7 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S26 Ultra</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -5936,7 +5993,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-64e01ee8ce216e65</Id>
+    <Id>product-261</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 12/512Gb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) White (белый)</Title>
@@ -5969,7 +6026,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-86e95c1a0b34751b</Id>
+    <Id>product-266</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 16/1Tb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Black (черный)</Title>
@@ -5992,7 +6049,7 @@
     <Model>Galaxy S26 Ultra</Model>
     <Color>черный</Color>
     <RamSize>16 ГБ</RamSize>
-    <MemorySize>1024 ГБ</MemorySize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/d64/wngt0f54fvnfrzmes049xv6fb8nyra99.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/788/x2b0lhg2zsvyww7msmt22x0yhkgcnokd.jpg" />
@@ -6000,7 +6057,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-afb9f192b84b8a50</Id>
+    <Id>product-267</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 16/1Tb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Cobalt Violet (фиолетовый)</Title>
@@ -6023,7 +6080,7 @@
     <Model>Galaxy S26 Ultra</Model>
     <Color>фиолетовый</Color>
     <RamSize>16 ГБ</RamSize>
-    <MemorySize>1024 ГБ</MemorySize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/a1e/xb0bnwmmlcrmezz7chceuswmezg2wppx.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/3e5/s549bqi2fhssflb5sg0eohvy74wwl57n.webp" />
@@ -6034,7 +6091,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-f9236a9cadf8c399</Id>
+    <Id>product-268</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 16/1Tb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Silver Shadow (серебристый)</Title>
@@ -6057,14 +6114,14 @@
     <Model>Galaxy S26 Ultra</Model>
     <Color>серебристый</Color>
     <RamSize>16 ГБ</RamSize>
-    <MemorySize>1024 ГБ</MemorySize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/f0b/u7l7qcwpkwf28xhg7kh26hl4cyzfeedt.png" />
       <Image url="https://video-shoper.ru/upload/iblock/d1c/pvvafs283uz1nl8rg9cn2znglzggoam5.png" />
     </Images>
   </Ad>
   <Ad>
-    <Id>item-93b4fddfae0f87ac</Id>
+    <Id>product-269</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 16/1Tb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) Sky Blue (голубой)</Title>
@@ -6085,9 +6142,9 @@
     <Condition>Новое</Condition>
     <Vendor>Samsung</Vendor>
     <Model>Galaxy S26 Ultra</Model>
-    <Color>голубой</Color>
+    <Color>синий</Color>
     <RamSize>16 ГБ</RamSize>
-    <MemorySize>1024 ГБ</MemorySize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/d09/r9u8ddspywtof31348y0fte7crdhym9z.webp" />
       <Image url="https://video-shoper.ru/upload/dev2fun.imagecompress/webp/iblock/fd4/qx0ecdax5uhodn587gtq0214ekboodqb.webp" />
@@ -6098,7 +6155,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-9335a51b96efd625</Id>
+    <Id>product-270</Id>
     <Category>Телефоны</Category>
     <GoodsType>Мобильные телефоны</GoodsType>
     <Title>Samsung S948B/DS Galaxy S26 Ultra 16/1Tb Dual+eSim (NFC) (Snapdragon 8 Elite Gen5) White (белый)</Title>
@@ -6121,7 +6178,7 @@
     <Model>Galaxy S26 Ultra</Model>
     <Color>белый</Color>
     <RamSize>16 ГБ</RamSize>
-    <MemorySize>1024 ГБ</MemorySize>
+    <MemorySize>1 ТБ</MemorySize>
     <Images>
       <Image url="https://video-shoper.ru/upload/iblock/eae/394o3q638u46pxdshaque53be622n7ki.jpg" />
       <Image url="https://video-shoper.ru/upload/iblock/5de/w1mpjug9hkibe4csukbun4kt4xmg61s4.jpg" />
@@ -6131,9 +6188,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4f5536dcf8c95d41</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-285</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Vivo X300 Pro V2514 16/512Gb Black (Черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6151,7 +6208,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Vivo</Vendor>
-    <Model>Vivo X300 Pro</Model>
+    <Model>Vivo X300 Pro V2514 16/512Gb Black (Черный) EAC</Model>
     <Color>черный</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6161,9 +6218,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-240733eacff161be</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-286</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Vivo X300 Pro V2514 16/512Gb Brown (Песчаный бархат) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6181,8 +6238,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Vivo</Vendor>
-    <Model>Vivo X300 Pro</Model>
-    <Color>коричневый</Color>
+    <Model>Vivo X300 Pro V2514 16/512Gb Brown (Песчаный бархат) EAC</Model>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -6191,9 +6247,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-2cb3c2a66fc375a6</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-287</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Vivo X300 V2515 12/256Gb (Dimensity 9500) Black (Таинственный черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6211,7 +6267,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Vivo</Vendor>
-    <Model>Vivo X300</Model>
+    <Model>Vivo X300 V2515 12/256Gb (Dimensity 9500) Black (Таинственный черный) EAC</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6224,9 +6280,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-e639980186645b5f</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-288</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Vivo X300 V2515 12/256Gb (Dimensity 9500) Blue (Воздушный голубой) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6244,8 +6300,8 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Vivo</Vendor>
-    <Model>Vivo X300</Model>
-    <Color>голубой</Color>
+    <Model>Vivo X300 V2515 12/256Gb (Dimensity 9500) Blue (Воздушный голубой) EAC</Model>
+    <Color>синий</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
     <Images>
@@ -6257,9 +6313,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-a91579b71f28a5ac</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-289</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Vivo X300 V2515 16/512Gb (Dimensity 9500) Blue (Воздушный голубой) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6277,8 +6333,8 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Vivo</Vendor>
-    <Model>Vivo X300</Model>
-    <Color>голубой</Color>
+    <Model>Vivo X300 V2515 16/512Gb (Dimensity 9500) Blue (Воздушный голубой) EAC</Model>
+    <Color>синий</Color>
     <RamSize>16 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
     <Images>
@@ -6290,9 +6346,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-5f84abaf1f342b1d</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-303</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Ксиаоми 17 5G 12Gb/256Gb (NFC) (Snapdragon 8 Elite Gen 5) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6310,7 +6366,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Xiaomi</Vendor>
-    <Model>Xiaomi 17</Model>
+    <Model>Ксиаоми 17 5G 12Gb/256Gb (NFC) (Snapdragon 8 Elite Gen 5) Black (черный) EAC</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6321,9 +6377,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-3b6a3c55fe236833</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-308</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Ксиаоми 17 5G 12Gb/512Gb (NFC) (Snapdragon 8 Elite Gen 5) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6341,7 +6397,7 @@
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
     <Vendor>Xiaomi</Vendor>
-    <Model>Xiaomi 17</Model>
+    <Model>Ксиаоми 17 5G 12Gb/512Gb (NFC) (Snapdragon 8 Elite Gen 5) Black (черный) EAC</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6356,9 +6412,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-ace3365f5b6c14b4</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-352</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Black (черный) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6375,8 +6431,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>POCO C85</Model>
+    <Vendor>POCO</Vendor>
+    <Model>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Black (черный) (Европа)</Model>
     <Color>черный</Color>
     <RamSize>6 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6386,9 +6442,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-31951af5b5e485a1</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-353</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Green (зеленый) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6405,8 +6461,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>POCO C85</Model>
+    <Vendor>POCO</Vendor>
+    <Model>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Green (зеленый) (Европа)</Model>
     <Color>зеленый</Color>
     <RamSize>6 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6416,9 +6472,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-556e537b6e0e6d66</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-354</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Purple (фиолетовый) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6435,8 +6491,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>POCO C85</Model>
+    <Vendor>POCO</Vendor>
+    <Model>ПОКО C85 4G 6/128Gb (Helio G81 Ultra) Purple (фиолетовый) (Европа)</Model>
     <Color>фиолетовый</Color>
     <RamSize>6 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6446,9 +6502,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-fb356e89f255dedd</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-355</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>ПОКО C85 4G 8/256Gb (Helio G81 Ultra) Green (зеленый) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6465,8 +6521,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>POCO C85</Model>
+    <Vendor>POCO</Vendor>
+    <Model>ПОКО C85 4G 8/256Gb (Helio G81 Ultra) Green (зеленый) (Европа)</Model>
     <Color>зеленый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6476,9 +6532,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-34cb2f9be1c490e8</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-356</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>ПОКО C85 4G 8/256Gb (Helio G81 Ultra) Green (зеленый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6495,8 +6551,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>POCO C85</Model>
+    <Vendor>POCO</Vendor>
+    <Model>ПОКО C85 4G 8/256Gb (Helio G81 Ultra) Green (зеленый) EAC</Model>
     <Color>зеленый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6506,9 +6562,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-947abbb5f51a8cea</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-384</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>ПОКО X8 Pro 5G 12/512Gb (Dimensity 8500-Ultra) White (белый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6525,8 +6581,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>POCO X8 Pro</Model>
+    <Vendor>POCO</Vendor>
+    <Model>ПОКО X8 Pro 5G 12/512Gb (Dimensity 8500-Ultra) White (белый) EAC</Model>
     <Color>белый</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6536,9 +6592,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-bc8a0160be3812e9</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-386</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>ПОКО X8 Pro 5G 8/256Gb (Dimensity 8500-Ultra) White (белый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6555,8 +6611,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>POCO X8 Pro</Model>
+    <Vendor>POCO</Vendor>
+    <Model>ПОКО X8 Pro 5G 8/256Gb (Dimensity 8500-Ultra) White (белый) EAC</Model>
     <Color>белый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6566,9 +6622,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-4e582e505d24bc1c</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-387</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>ПОКО X8 Pro 5G 8/512Gb (Dimensity 8500-Ultra) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6585,8 +6641,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>POCO X8 Pro</Model>
+    <Vendor>POCO</Vendor>
+    <Model>ПОКО X8 Pro 5G 8/512Gb (Dimensity 8500-Ultra) Black (черный) EAC</Model>
     <Color>черный</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6599,9 +6655,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-564261a56260ec8d</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-389</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>ПОКО X8 Pro 5G 8/512Gb (Dimensity 8500-Ultra) White (белый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6618,8 +6674,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>POCO X8 Pro</Model>
+    <Vendor>POCO</Vendor>
+    <Model>ПОКО X8 Pro 5G 8/512Gb (Dimensity 8500-Ultra) White (белый) EAC</Model>
     <Color>белый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
@@ -6629,9 +6685,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-2d770f52710387e0</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-343</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Редми Нот 15 Pro 4G 8Gb/256Gb (Helio G200-Ultra) Black (чёрный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6648,8 +6704,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 15 Pro</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Редми Нот 15 Pro 4G  8Gb/256Gb (Helio G200-Ultra) Black (чёрный) EAC</Model>
     <Color>черный</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6661,9 +6717,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-2670b9a04fe38b77</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-317</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Рэдми Нот 13 Pro 4G 8Gb/256Gb зелёный (Forest green) (Helio G99) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6680,8 +6736,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 13 Pro</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Рэдми Нот 13 Pro 4G 8Gb/256Gb зелёный (Forest green) (Helio G99) (Европа)</Model>
     <Color>зеленый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6695,9 +6751,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-789800eeef3ae07b</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-318</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Рэдми Нот 13 Pro 4G 8Gb/256Gb фиолетовый (Lavender purple) (Helio G99) (Европа)</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6714,8 +6770,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 13 Pro</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Рэдми Нот 13 Pro 4G 8Gb/256Gb фиолетовый (Lavender purple) (Helio G99) (Европа)</Model>
     <Color>фиолетовый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6729,9 +6785,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-bac229cb1694609a</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-332</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Рэдми Нот 15 6Gb/128Gb (Helio G100-Ultra) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6748,8 +6804,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 15</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Рэдми Нот 15 6Gb/128Gb (Helio G100-Ultra) Black (черный) EAC</Model>
     <Color>черный</Color>
     <RamSize>6 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6760,9 +6816,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-b52c69c8c0c115af</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-334</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Рэдми Нот 15 6Gb/128Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6779,8 +6835,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 15</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Рэдми Нот 15 6Gb/128Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Model>
     <Color>фиолетовый</Color>
     <RamSize>6 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6791,9 +6847,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-0e65a76e5c08408e</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-335</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Рэдми Нот 15 8Gb/128Gb (Helio G100-Ultra) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6810,8 +6866,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 15</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Рэдми Нот 15 8Gb/128Gb (Helio G100-Ultra) Black (черный) EAC</Model>
     <Color>черный</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6822,9 +6878,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-fba8074bb57bf634</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-337</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Рэдми Нот 15 8Gb/128Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6841,8 +6897,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 15</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Рэдми Нот 15 8Gb/128Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Model>
     <Color>фиолетовый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>128 ГБ</MemorySize>
@@ -6853,9 +6909,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-5bb7fff6b9a54e19</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-329</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Рэдми Нот 15 8Gb/256Gb (Helio G100-Ultra) Black (черный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6872,8 +6928,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 15</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Рэдми Нот 15 8Gb/256Gb (Helio G100-Ultra) Black (черный) EAC</Model>
     <Color>черный</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6884,9 +6940,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-8e736aa4efb189b7</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-331</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Рэдми Нот 15 8Gb/256Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6903,8 +6959,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 15</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Рэдми Нот 15 8Gb/256Gb (Helio G100-Ultra) Purple (фиолетовый) EAC</Model>
     <Color>фиолетовый</Color>
     <RamSize>8 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6915,9 +6971,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-7f2588a39e913b19</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-339</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Рэдми Нот 15 Pro 4G 12Gb/256Gb (Helio G200-Ultra) Black (чёрный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6934,8 +6990,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 15 Pro</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Рэдми Нот 15 Pro 4G  12Gb/256Gb (Helio G200-Ultra) Black (чёрный) EAC</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>256 ГБ</MemorySize>
@@ -6947,9 +7003,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>item-35ce7f54721c9902</Id>
-    <Category>Телефоны</Category>
-    <GoodsType>Мобильные телефоны</GoodsType>
+    <Id>product-345</Id>
+    <Category>Электроника</Category>
+    <GoodsType>Другое</GoodsType>
     <Title>Рэдми Нот 15 Pro 4G 12Gb/512Gb (Helio G200-Ultra) Black (чёрный) EAC</Title>
     <Description>🔷 ТOBAP B НАЛИЧИИ🔷
 🛠ГАРАНТИЯ 24 МЕСЯЦА🛠
@@ -6966,8 +7022,8 @@
     <Address>Москва, Пятницкое шоссе, 18</Address>
     <ContactPhone>+79009394496</ContactPhone>
     <Condition>Новое</Condition>
-    <Vendor>Xiaomi</Vendor>
-    <Model>Redmi Note 15 Pro</Model>
+    <Vendor>Redmi</Vendor>
+    <Model>Рэдми Нот 15 Pro 4G  12Gb/512Gb (Helio G200-Ultra) Black (чёрный) EAC</Model>
     <Color>черный</Color>
     <RamSize>12 ГБ</RamSize>
     <MemorySize>512 ГБ</MemorySize>
